@@ -138,6 +138,13 @@ int main()
     { 
         printf("Invalid Birth date entered\n");  
     }  
+    printf("Please pick a number to continue:");
+    printf("1.About me");
+    printf("2.Lucky numbers");
+    printf("3.Love Compatibilty");
+    printf("4.Fortunes");
+    printf("5.Exit");
+           
     
     return 0;  
 }  
