@@ -137,14 +137,22 @@ int main()
     else  
     { 
         printf("Invalid Birth date entered\n");  
-    }  
+    } 
+    int num;
     printf("Please pick a number to continue:");
-    printf("1.About me");
-    printf("2.Lucky numbers");
-    printf("3.Lucky colour");
-    printf("4.Love Compatibilty");
-    printf("5.Fortunes");
-    printf("6.Exit");
+    printf("1.About me\n");
+    printf("2.Lucky numbers\n");
+    printf("3.Lucky colour\n");
+    printf("4.Love Compatibilty\n");
+    printf("5.Fortunes\n");
+    printf("6.Exit\n");
+    scanf("%d", &num);
+    if(num==1) //about me-tanishq
+    else if(num==2) //lucky numbers-devansh
+    else if(num==3) //lucky colour-tanishq
+    else if(num==4) //love compatibilty-sai
+    else if(num==5) //fortunes-simran
+    else(num==6) //exit
            
     
     return 0;  
