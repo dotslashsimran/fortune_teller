@@ -1,2 +1,2 @@
-# fotune_teller
+# fortune_teller
 for uni project
