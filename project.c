@@ -141,9 +141,10 @@ int main()
     printf("Please pick a number to continue:");
     printf("1.About me");
     printf("2.Lucky numbers");
-    printf("3.Love Compatibilty");
-    printf("4.Fortunes");
-    printf("5.Exit");
+    printf("3.Lucky colour");
+    printf("4.Love Compatibilty");
+    printf("5.Fortunes");
+    printf("6.Exit");
            
     
     return 0;  
