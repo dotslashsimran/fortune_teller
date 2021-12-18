@@ -497,6 +497,138 @@ int main()
         printf("Invalid Keywords entered.");
         break;
     }}
+     
+        else if( (m == 2 && day >= 18) || (m == 3 && day <= 19) )
+       {int count;
+           printf("1-CAPRICORN \n 2-AQUARIUS \n 3-PISCES \n 4-ARIES \n 5-TAURUS \n 6-GEMINI \n 7-CANCER \n 8-LEO \n 9-VIRGO \n 10-LIBRA \n 11-SCORPIO \n 12-SAGITTARIUS");
+           scanf("ENTER CHOICE %d",&count);
+   
+    switch(count)
+    {   
+        case 1:
+        printf("PROS\n");
+        printf("The opposite traits of Capricorn and Pisces zodiac signs end up filling the emotional voids in their respective lives instead of clashing to destroy the harmony between them. What Capricorn misses from the personality of Pisces and vice versa. This helps the pair create a beautiful, complete world for themselves where they add to each other's strengths and minimize most of the weaknesses.\n");
+        printf("CONS\n");
+        printf("The quiet and unassuming nature of the goat might feel the Piscean feel ignored at times. However, the water sign must become conscious of the fact that the Capricorn means no harm more often than not.\n");
+        printf("CONCLUSION\n");
+        printf("Communication=100% \n");
+        printf("Compatibility=85% \n");
+        break;
+        
+        case 2:
+        printf("PROS\n");
+        printf("The ruling planets of Aquarius and Pisces are Uranus and Neptune respectively. This creates a sense of exhilarating mystery in the relationship, making it an exciting ride for both the individuals involved. This couple will not fear to set big and mighty goals individually, as well as together.\n");
+        printf("CONS\n");
+        printf("The biggest struggle between these Pisces and Aquarius individuals would be the consistent emotional inconsistency of their equation. Pisces is all about feeling and expressing, while Aquarius tries to steer clear of any intense emotional passages. The emotions of a Piscean fluctuate in hot as well as cold, while the Aquarian believes in singular tepidity. The best chance to overcome this hurdle is to find a middle ground where the former learns to hold back a little bit and the latter tries to let go once in a while.\n");
+        printf("CONCLUSION\n");
+        printf("Communication=10% \n");
+        printf("Compatibility=25% \n");
+        break;
+
+        case 3:
+        printf("PROS\n");
+        printf("The positive points in a Pisces-Pisces relationship are that they are both dreamy people and when in love will share all their dreams with each other. This can be very inspiring for the other partner. They will not only encourage each other tacitly, but also verbally. And they will not only encourage each other but also push each other actively to achieve their respective goals.\n");
+        printf("CONS\n");
+        printf("The minus point in a Pisces and Pisces compatibility is that they can get stuck in a rut, performing the same things day in and day out. It can make them lazy, bored and thus their inborn creativity goes for a toss. This can easily lead them into a situation where there is nothing to share or talk about, unless they have a good group of friends with whom they can interact everyday, or unless they have shared hobbies about which they can talk everyday.\n");
+        printf("CONCLUSION\n");
+        printf("Communication=80% \n");
+        printf("Compatibility=82.5% \n");
+        break;
+
+        case 4:
+        printf("PROS\n");
+        printf("Pisces prefers surprises and doesn’t think much before taking up an unknown endeavor. The Aries is also a risk-taker and spontaneous in making decisions and that is understood well by the fish. The Piscean is well aware of the aims and dreams of Aries, so they will always stay in their support. While the Aries will be protective and possessive for their Piscean partner because of their own strong mentality. The Aries will try to protect the Piscean as they are aware of their sensitive and emotional behavior.\n");
+        printf("CONS\n");
+        printf("The biggest disadvantage of their love relationship is that both Pisces and Aries. Pisces sun sign have different ways of expressing their feelings. Pisces likes to deal with different feelings and emotions at different times while the Aries man and woman is quite specific and rigid about their emotions. Pisces don’t have a constant feeling for anyone and their emotionality towards various things will fluctuate from time to time. This is not at all good for their relationship as this can create misunderstandings between them which might create trust issues for both of them. Pisces might also get hurt due to the aggressive nature of Aries.\n");
+        printf("CONCLUSION\n");
+        printf("Communication=10% \n");
+        printf("Compatibility=25% \n");
+        break;
+
+        case 5:
+        printf("PROS\n");
+        printf("They both believe in waiting for their perfect match, rather than being with the wrong one. They will want to experience every level of love in their relationship. They both will put up equal efforts to establish a happy and successful relationship between them.\n");
+        printf("CONS\n");
+        printf("Taurus man and woman are very stubborn in nature which can be sometimes frustrating for Pisces. Taurus is short-tempered and this won’t be received well at the Pisces end as this will instill a feeling of fear and disappointment between them. Pisces may feel that Taurus is insensitive and unemotional while Taurus might get frustrated because of the constant need for emotional support by the Piscean.\n");
+        printf("CONCLUSION\n");
+        printf("Communication=10% \n");
+        printf("Compatibility=25% \n");
+        break;
+
+        case 6:
+        printf("PROS\n");
+        printf("Both the Fish and the Twins are mutable signs, which is why it is not difficult for them to adjust to the whims and fancies of each other. Pisces is an extremely caring individual and that does not go unnoticed by the Twins, who feels blessed to receive such unabashed attention from his/her lover. Gemini zodiac sign Gemini zodiac sign, on the other hand, inspires the Piscean with its sharp intellect and strong ambition. If the two signs find a way to build strong mutual understanding, they can learn a lot from each other and grow significantly in the entire process.\n");
+        printf("CONS\n");
+        printf("Every individual ruled by Gemini is unpredictable, and is guilty of duality in his/her personality. This is difficult to handle for the Piscean, who cannot understand the sudden mood swings that the Twins goes through, for no apparent reason. Gemini prefers to be emotionally aloof and standoffish, which is a big area of concern for the relationship. Pisces is a sign that feels and expresses immensely and the emotional unavailability of the third sign of the zodiac might put them off on more occasions than one. The latter, on the other hand, is driven by the idea of freedom and cannot stand being caged down to anything or anyone.\n");
+        printf("CONCLUSION\n");
+        printf("Communication=10% \n");
+        printf("Compatibility=15% \n");
+        break;
+
+        case 7:
+        printf("PROS\n");
+        printf("Pisces and Cancer are both very similar to each other. This could be a very major pro in the relationship. They are both dreamers, they both love staying in, they both are the kinds who are very selective of the ones they invest their emotions in. Both these water signs will have a great equation, finding a common ground, almost, as soon as a difference as occurred.\n");
+        printf("CONS\n");
+        printf("When dealing with water, we are all aware of the most important aspect. No matter how important water is to our survival, it is also capable of drowning us. This simple analogy holds true for this union as well. The Pisces Cancer compatibility can go sour with a simple shift. The great romance and glamour that rules their relationship, could drown them both. Pushing them into depression and anxiety.\n");
+        printf("CONCLUSION\n");
+        printf("Communication=60% \n");
+        printf("Compatibility=80% \n");
+        break;
+
+        case 8:
+        printf("PROS\n");
+        printf("The biggest advantage of their relationship is that both of them believe that love has got secret powers to fulfill their lives. Both of them will go to any extent to keep their partners happy and feel loved in their relationship. The Lion will appreciate the core qualities of the Pisces who has an unending warmth and compassion for all the living beings. While generous nature of Leo man and woman will help the Pisces to feel loved and secure.\n");
+        printf("CONS\n");
+        printf("They will have strong communication with each other but at times they will misunderstand each other which can create conflicts. They both will think that they are right but none of them will understand that they have struck the wrong chord. The lion needs to take care of their aggressive behavior while the Pisces need to control their idealism in order to not bother Leo.\n");
+        printf("CONCLUSION\n");
+        printf("Communication=25% \n");
+        printf("Compatibility=25% \n");
+        break;
+
+        case 9:
+        printf("PROS\n");
+        printf("The zodiac compatibility between Pisces and Virgo is extremely peaceful and harmonious. They both know what they want from the relationship, and will give each other the time to settle into the same. Virgo, with its practicality and knowledge, gives direction to the Piscean’s idealistic dreams. Pisces, on the other hand, helps the Virgo feel more and encourages him/her to express feelings without any inhibitions. The gentle and naïve side of the Fish is safeguarded by the Virgo, who strives to protect the Piscean’s innocence in life.\n");
+        printf("CONS\n");
+        printf("The dominating and perfection-seeking personality of the Virgo is too much to handle for the Pisces at times. The Fish prefers to operate in a dreamy world, and Virgo’s cold logic and sleek pragmatism threatens to plunge it into reality more often than not. This makes the Piscean bitter and unable to function at the best level. Virgo does not express emotions frequently, and that might stir feelings of insecurity in the sentimental Piscean. This might make the Fish feel ignored and under-appreciated in the relationship.\n");
+        printf("CONCLUSION\n");
+        printf("Communication=45% \n");
+        printf("Compatibility=50% \n");
+        break;
+
+        case 10:
+        printf("PROS\n");
+        printf("Libra is cardinal sign, while Pisces is a mutable. This is why, the Piscean can adjust to the whims and fancies of Libra’s personality, which in turn, helps the Libra feel secure. This way, they can both build their bond from the ground up.Pisces and Libra are both very kind to anyone and everyone around them. This is why, people look up to this pair and have a sense of respect towards them, as individuals and as a couple.\n");
+        printf("CONS\n");
+        printf("While they are both very understanding of each other, they will struggle to see eye to eye on many occasions. They are intrinsically different and have some very divergent core beliefs.The Piscean is a sensitive and emotional zodiac sign, while the Libra is relatively reticent. This can create a wedge between the two, more so as the latter’s inability to express his/her emotions openly can unnerve the Fish.\n");
+        printf("CONCLUSION\n");
+        printf("Communication=25% \n");
+        printf("Compatibility=25% \n");
+        break;
+
+        case 11:
+        printf("PROS\n");
+        printf("The erratic behaviour and complex personality of the Scorpion might be frustrating for most zodiac signs, but it does not deter the Piscean in the slightest. The fish is a gentle, kind, and patient sign that has the potential to break the walls around the Scorpion’s emotional side.On the other hand, the innocence of Pisces makes Scorpio feel protective about the Piscean. Hence, Scorpio makes sure to do everything in its power to make Pisces feel safeguarded and cherished, which in turn, brings out the best in the Fish.\n");
+        printf("CONS\n");
+        printf("The dominating persona of the Scorpion, though handled well by the Pisces man or Pisces woman, can cause problems in the relationship at times. While the Fish understands the overbearing nature of the Scorpion, it cannot accept it at all times. Hence, the Scorpion must practice relinquishing control from time to time so as to keep the relationship healthy.\n");
+        printf("CONCLUSION\n");
+        printf("Communication=60% \n");
+        printf("Compatibility=80% \n");
+        break;
+
+        case 12:
+        printf("PROS\n");
+        printf("The biggest similarity between these two signs Sagittarius and Pisces is that they have extremely creative minds and immensely intuitive personalities. They have some similar interests in terms of hobbies and other activities, which, in turn, can give them a serious chance to get to know and understand each other. The Fish and the Archer are both kind and compassionate individuals. They take pride in helping other people and thus, will always extend selfless support to each other in times of need.\n");
+        printf("CONS\n");
+        printf("Signs are that since both Pisces and Sagittarius tend to live in their dream worlds more than they do in the present, they might end up getting harsh reality checks from time to time. This will unnerve them and cause panic in their astrology couple compatibility. While Pisces is patient and Sagittarius is open-minded, they might not take this very well and fall into an emotional turmoil in such situations. It is unlikely that they will help each other out of such problems, considering they will be too busy trying to get bearings of their own self first. The emotional dependence of the Pisces might be caging for the Sagittarius, while the fiery temper of the Archer might not bode well with the gentle nature of the Fish.\n");       
+        printf("CONCLUSION\n");
+        printf("Communication=20% \n");
+        printf("Compatibility=15% \n");
+        break;
+
+        default: 
+        printf("Invalid Keywords entered.");
+        break;
+    }}
     else if(num==5) //fortunes-simran
    {
         if( (m == 12 && day >= 22) || (m == 1 && day <= 19) ) //capricon
