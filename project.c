@@ -228,8 +228,8 @@ int main()
     }
     else if(num==4) //love compatibilty-sai
     {
-        { if( (m == 12 && day >= 22) || (m == 1 && day <= 19) )     
-           int count;
+        if( (m == 12 && day >= 22) || (m == 1 && day <= 19) )     
+        {  int count;
            printf("1-CAPRICORN \n 2-AQUARIUS \n 3-PISCES \n 4-ARIES \n 5-TAURUS \n 6-GEMINI \n 7-CANCER \n 8-LEO \n 9-VIRGO \n 10-LIBRA \n 11-SCORPIO \n 12-SAGITTARIUS");
            scanf("ENTER CHOICE %d",&count);
    
@@ -364,7 +364,139 @@ int main()
         default: 
         printf("Invalid Keywords entered.");
         break;
-    }
+    }}
+         
+          else if( (m == 1 && day >= 20) || (m == 2 && day <= 17) ) 
+      {int count;
+           printf("1-CAPRICORN \n 2-AQUARIUS \n 3-PISCES \n 4-ARIES \n 5-TAURUS \n 6-GEMINI \n 7-CANCER \n 8-LEO \n 9-VIRGO \n 10-LIBRA \n 11-SCORPIO \n 12-SAGITTARIUS");
+           scanf("ENTER CHOICE %d",&count);
+   
+    switch(count)
+    {   
+        case 1:
+        printf("PROS\n");
+        printf("The biggest plus of Capricorn and Aquarius relationship compatibility is that they both like to take things slow and are not interested in inflicting a whirlwind of emotions on each other. The mystery and charm of an Aquarian brings an unusual sense of calm to the goat's strained mind. Capricorn, on the other hand, helps add realism to the Aquarian's dreamy plans and gives him/her a practical roadmap to materialize them.\n");
+        printf("CONS\n");
+        printf("The goat prides itself over its tenacity and practicality, while trying to rule out every possibility of chaos and/or clutter in their future. The unpredictable attitude of the Aquarian stands right in the way of that very process, thereby making it difficult for the Capricorn to accept the eccentricity of his/her partner.\n");
+        printf("CONCLUSION\n");
+        printf("Communication=10% \n");
+        printf("Compatibility=25% \n");
+        break;
+
+        case 2:
+        printf("PROS\n");
+        printf("The positive aspects of two Aquarians relationship is the easy flow of conversation because they understand each other so well. Moreover, since they are very intelligent people and they have lofty thoughts, the things they talk about are generally not understood even by people in their surroundings. Their intellectual connect is absolute and oblivious to everything around them.\n");
+        printf("CONS\n");
+        printf("However, the Aquarius native is really strong, and they have big egos. So in an Aquarius compatibility it is easy for ego issues to crop and spoil things. Their egos can really be the reason for a great deal of unpleasantness in their relationship leading to bitter conflicts between their personalities. The best remedy for such a situation is for both of them to relax, sit back and allow each other enough intellectual freedom that they want.\n");
+        printf("CONCLUSION\n");
+        printf("Communication=80% \n");
+        printf("Compatibility=82.5% \n");
+        break;
+
+        case 3:
+        printf("PROS\n");
+        printf("The ruling planets of Aquarius and Pisces are Uranus and Neptune respectively. This creates a sense of exhilarating mystery in the relationship, making it an exciting ride for both the individuals involved. This couple will not fear to set big and mighty goals individually, as well as together.\n");
+        printf("CONS\n");
+        printf("The biggest struggle between these Pisces and Aquarius individuals would be the consistent emotional inconsistency of their equation. Pisces is all about feeling and expressing, while Aquarius tries to steer clear of any intense emotional passages. The emotions of a Piscean fluctuate in hot as well as cold, while the Aquarian believes in singular tepidity. The best chance to overcome this hurdle is to find a middle ground where the former learns to hold back a little bit and the latter tries to let go once in a while.\n");
+        printf("CONCLUSION\n");
+        printf("Communication=10% \n");
+        printf("Compatibility=25% \n");
+        break;
+
+        case 4:
+        printf("PROS\n");
+        printf("Since both Aquarius and Aries are extremely smart individuals, they will never run out of thought-provoking and mentally stimulating conversations. They enjoy every second of being with each other and there is not a single dull moment in between Aquarius and Aries’s relationship.\n");
+        printf("CONS\n");
+        printf("The frequent fights between Aquarius and Aries arise from their relatively different approach to life. While Aries is emotional and expressive, Aquarius is reticent and subtle. The Aries needs affection from time to time and the Water bearer’s refusal to express might drive a wedge between the two zodiac signs.\n");
+        printf("CONCLUSION\n");
+        printf("Communication=100% \n");
+        printf("Compatibility=85% \n");
+        break;
+
+        case 5:
+        printf("PROS\n");
+        printf("A Taurean’s calm temperament helps to resolve the apprehensions of an Aquarian. At the same time, an Aquarian’s rooted thoughts and expressions are what truly attracts a Taurean.Both being extremely loyal signs, will be devoted to each other and their zodiac match relationship. Both shall find it easier to trust, provided the Taurean remains truthful and the Aquarian does not keep secrets.Since both prefer to steer clear from unwanted squabbles, they shall be able to solve any issue at hand before things go out of control.\n");
+        printf("CONS\n");
+        printf("Taurus man and Taurus woman may find it a little tough to keep up with the exciting adventures of Aquarians. The Taurean may not be pleased with the water-bearer’s need to fly high even in uncharted waters, as they prefer to remain humble and grounded. Hence, the issues that crop up between the air and the earth signs are mainly due to these reasons.Their desires differ from each other too. A Taurean will always want to acquire materialistic things whereas, an Aquarian is more interested in holding onto personal consequences that are on an intellectual level. These two contrasting desires might act as a spoke between them creating tensions and misunderstandings.\n");
+        printf("CONCLUSION\n");
+        printf("Communication=20% \n");
+        printf("Compatibility=15% \n");
+        break;
+
+        case 6:
+        printf("PROS\n");
+        printf("The knowledge seeking Gemini is bound to be ethereally attracted to the knowledge bearing Aquarius. The Aquarius on the other hand, gets a great deal of comfort in sharing their sea of knowledge with an eager soul. For them to keep away from each other, seems almost too difficult.Not just a loving couple, the Aquarius man and Gemini woman and vice-versa will have a relationship that will translate to every walk of life. While most couples can't work together professionally, the Aquarius and Gemini can make a great professional team.\n");
+        printf("CONS\n");
+        printf("Both the signs tend to get habituated to people, in which case, they just go on with associations for the sake of the habit. While this doesn't hinder other aspects of their life, if does start blocking their knowledge flow, eventually making them frustrated and bitter. Needless to say, when air gets bitter, there is only going to be a storm!\n");
+        printf("CONCLUSION\n");
+        printf("Communication=60% \n");
+        printf("Compatibility=80% \n");
+        break;
+
+        case 7:
+        printf("PROS\n");
+        printf("The mutual need to please and care for their partner is one of the corner stones of Aquarius and Cancer love match. The Aquarius Cancer compatibility stands tall on the fact that these two will ensure that they do not put each other in an uncomfortable situation. All the while, making sure they are not losing their comfort as well.\n");
+        printf("CONS\n");
+        printf("Alright, so they take care of each other and are not averse to speaking their mind in the relationship. However, this is when all is going well. The insecure Cancer, if triggered, can face issues with the "open to the universe" attitude of the Aquarius. More so, the Aquarius, when faced with any restriction, may rebel very drastically to the Cancer.\n");
+        printf("CONCLUSION\n");
+        printf("Communication=25% \n");
+        printf("Compatibility=25% \n");
+        break;
+
+        case 8:
+        printf("PROS\n");
+        printf("The water-bearer is likely to complement the flame in order to let it shine in full glory. Likewise, even the air sign is bound to find inspiration from the Lion. This way, both signs seem to push each other towards greatness. Leos are built to motivate whereas the water bearers are full of ambitions. Both their qualities seem to piece perfectly together, making their union different and unique.\n");
+        printf("CONS\n");
+        printf("Leo man and woman are extremely generous lovers but they believe that love is a two-way street. If they feel that love is not returned in a similar manner, they are likely to get upset. The Lion’s continuous call for attention can be a little enduring and when their demands are not fulfilled, they tend to get even more flustered.\n");
+        printf("CONCLUSION\n");
+        printf("Communication=45% \n");
+        printf("Compatibility=50% \n");
+        break;
+
+        case 9:
+        printf("PROS\n");
+        printf("Both Virgo and Aquarius are highly intelligent and sharp individuals. The mental side of this relationship will be its greatest asset and its biggest strength. They will never run out of topics to talk about and their communication will always be enlightening and exhilarating for both the sides.The best part about Virgo and Aquarius relationship compatibility bond is that though they have certain similarities, the differences in their personalities will also add to their relationship. Both have strong ambition and will not stop at anything to fulfill their aspirations.\n");
+        printf("CONS\n");
+        printf("The unpredictability of the Aquarian is too much to take for the stable Virgo at times. The latter likes to have a control over his/her life, while the former thrives on surprises and impulsiveness. This will probably ignite the initial bout of sparks in their relationship.While Virgo believes in keeping it real, their behavior might seem pessimistic to the immensely idealistic Aquarius. This will lead to conflicts between Aquarius and Virgo, as Virgo will be frustrated with their partner's inability to gauge the reality.\n");
+        printf("CONCLUSION\n");
+        printf("Communication=25% \n");
+        printf("Compatibility=25% \n");
+        break;
+
+        case 10:
+        printf("PROS\n");
+        printf("When these two signs are attracted to each other on a romantic front, they can create a hell of a love story for themselves. Both Libra and Aquarius will give their all to starting and sustaining their relationship with each other, while investing time and effort in understanding and respecting each other’s perspective to different things in life.\n");
+        printf("CONS\n");
+        printf("Aquarius man and woman  is an upfront, direct, and strong sign. Hence, when Libra tends to waste too time on a particular decision, it can become quite unnerving for the water bearer.Also, the Libra’s reasonable wish of settling down in some point in life might also play negatively on the Aquarian’s mind, as the latter cannot have its independence threatened under any circumstances.Libra, on the other hand, does not understand the Aquarian’s constant need to rush through every decision in life.\n");
+        printf("CONCLUSION\n");
+        printf("Communication=60% \n");
+        printf("Compatibility=80% \n");
+        break;
+
+        case 11:
+        printf("PROS\n");
+        printf("Both Aquarius and Scorpio are extremely intellectual people with razor sharp focus. They are attracted to each other on the cerebral level thus, tend to have more than one intellectually stimulating conversation with each other from time to time.They have enough similarities to hit it off with each other. They are both rebels on certain fronts and thus, find it easy to relate to each other on some core beliefs.\n");
+        printf("CONS\n");
+        printf("The challenge that the water bearer and the Scorpion will face the most in their relationship is their inability to come to terms with each other’s emotional requirements. While the Aquarian prefers to stay closed off and guarded, the Scorpion requires expressiveness from time to time.This might create problems between Aquarians and Scorpions and hamper the progress of their relationship.\n");
+        printf("CONCLUSION\n");
+        printf("Communication=20% \n");
+        printf("Compatibility=15% \n");
+        break;
+
+        case 12:
+        printf("PROS\n");
+        printf("The best past about this equation is that since both Aquarius and Sagittarius are not afraid to say their mind, the communication between them is strong and real. They have the assurance that their partner will not judge them, making it easy for them to open up to each other and ensure that their conversations are free-flowing, unambiguous, and enriching. The intellectual side of the Water bearer mingles perfectly with the deep-thinking persona of the Sagittarius sign. They are both drawn to each other due to the same.\n");
+        printf("CONS\n");
+        printf("It is important for Aquarius and Sagittarius to know how to unearth the right combination so as to avoid harming their relationship with each other. Possessiveness is a problem that both of them will struggle from time to time. They have jealous natures that might cause friction in their bond and engender a sense of resentment between the two. Since both these signs are more impulsive than rational, they might end up making regrettable decisions in the spur of the moment that cause problems for their relationship in the future.\n");
+        printf("CONCLUSION\n");
+        printf("Communication=100% \n");
+        printf("Compatibility=85% \n");
+        break;
+      
+        default: 
+        printf("Invalid Keywords entered.");
+        break;
+    }}
     else if(num==5) //fortunes-simran
    {
         if( (m == 12 && day >= 22) || (m == 1 && day <= 19) ) //capricon
