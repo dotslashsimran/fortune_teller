@@ -437,7 +437,7 @@ int main()
         printf("PROS\n");
         printf("The mutual need to please and care for their partner is one of the corner stones of Aquarius and Cancer love match. The Aquarius Cancer compatibility stands tall on the fact that these two will ensure that they do not put each other in an uncomfortable situation. All the while, making sure they are not losing their comfort as well.\n");
         printf("CONS\n");
-        printf("Alright, so they take care of each other and are not averse to speaking their mind in the relationship. However, this is when all is going well. The insecure Cancer, if triggered, can face issues with the "open to the universe" attitude of the Aquarius. More so, the Aquarius, when faced with any restriction, may rebel very drastically to the Cancer.\n");
+        printf("Alright, so they take care of each other and are not averse to speaking their mind in the relationship. However, this is when all is going well. The insecure Cancer, if triggered, can face issues with the open to the universe attitude of the Aquarius. More so, the Aquarius, when faced with any restriction, may rebel very drastically to the Cancer.\n");
         printf("CONCLUSION\n");
         printf("Communication=25percent \n");
         printf("Compatibility=25percent \n");
