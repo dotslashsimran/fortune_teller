@@ -500,8 +500,8 @@ int main()
      
         else if( (m == 2 && day >= 18) || (m == 3 && day <= 19) )
        {int count;
-           printf("1-CAPRICORN \n 2-AQUARIUS \n 3-PISCES \n 4-ARIES \n 5-TAURUS \n 6-GEMINI \n 7-CANCER \n 8-LEO \n 9-VIRGO \n 10-LIBRA \n 11-SCORPIO \n 12-SAGITTARIUS");
-           scanf("ENTER CHOICE %d",&count);
+           printf("1-CAPRICORN \n 2-AQUARIUS \n 3-PISCES \n 4-ARIES \n 5-TAURUS \n 6-GEMINI \n 7-CANCER \n 8-LEO \n 9-VIRGO \n 10-LIBRA \n 11-SCORPIO \n 12-SAGITTARIUS \n");
+           scanf("ENTER CHOICE %d \n",&count);
    
     switch(count)
     {   
