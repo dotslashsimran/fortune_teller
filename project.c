@@ -673,7 +673,7 @@ int main()
       }  
   printf("\n ENTER 1 TO CONTINUE \n ENTER 0 TO QUIT \n");
   scanf("%d",&yn);
-}while(yn==1);  
+    }}while(yn==1);  
     
     return 0;  
 }  
