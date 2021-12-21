@@ -150,7 +150,7 @@ int main()
         if(num==1) //about me-bk
         {
             int ch;
-            printf("1-CAPRICORN \n 2-AQUARIUS \n 3-PISCES \n 4-ARIES \n 5-TAURUS \n 6-GEMINI \n 7-CANCER \n 8-LEO \n 9-VIRGO \n 10-LIBRA \n 11-SCORPIO \n 12-SAGITTARIUS \n");
+            printf(" 1-CAPRICORN \n 2-AQUARIUS \n 3-PISCES \n 4-ARIES \n 5-TAURUS \n 6-GEMINI \n 7-CANCER \n 8-LEO \n 9-VIRGO \n 10-LIBRA \n 11-SCORPIO \n 12-SAGITTARIUS \n");
             scanf("%d",&ch);
             switch(ch)
             {
@@ -181,7 +181,7 @@ int main()
             }
             else if( (m == 2 && day >= 18) || (m == 3 && day <= 19) )
             {
-                printf("Your lucky numbers are 1 and 8");
+                printf("Your lucky numbers are 3 and 7");
             }
             else if( (m == 3 && day >= 20) || (m == 4 && day <= 19) )
             {
@@ -273,7 +273,7 @@ int main()
         }
         else if(num==4) //love compatibilty-sai
         {       int count;
-                printf("1-CAPRICORN \n 2-AQUARIUS \n 3-PISCES \n 4-ARIES \n 5-TAURUS \n 6-GEMINI \n 7-CANCER \n 8-LEO \n 9-VIRGO \n 10-LIBRA \n 11-SCORPIO \n 12-SAGITTARIUS \n");
+                printf(" 1-CAPRICORN \n 2-AQUARIUS \n 3-PISCES \n 4-ARIES \n 5-TAURUS \n 6-GEMINI \n 7-CANCER \n 8-LEO \n 9-VIRGO \n 10-LIBRA \n 11-SCORPIO \n 12-SAGITTARIUS \n");
                 printf("ENTER CHOICE\n");
                 scanf("%d", &count);
             if( (m == 12 && day >= 22) || (m == 1 && day <= 19) )     
