@@ -277,7 +277,8 @@ int main()
             {
                 int count;
                 printf("1-CAPRICORN \n 2-AQUARIUS \n 3-PISCES \n 4-ARIES \n 5-TAURUS \n 6-GEMINI \n 7-CANCER \n 8-LEO \n 9-VIRGO \n 10-LIBRA \n 11-SCORPIO \n 12-SAGITTARIUS \n");
-                scanf("ENTER CHOICE %d \n",&count);
+                printf("ENTER CHOICE\n");
+                scanf("%d", &count);
                 switch(count)
                 {
                     case 1:
@@ -410,7 +411,9 @@ int main()
             {
                 int count;
                 printf("1-CAPRICORN \n 2-AQUARIUS \n 3-PISCES \n 4-ARIES \n 5-TAURUS \n 6-GEMINI \n 7-CANCER \n 8-LEO \n 9-VIRGO \n 10-LIBRA \n 11-SCORPIO \n 12-SAGITTARIUS \n");
-                scanf("ENTER CHOICE %d \n",&count);
+                printf("ENTER CHOICE\n);
+                scanf("%d", &count);
+                 
                 switch(count)
                 {
                     case 1:
@@ -542,7 +545,8 @@ int main()
             {
                 int count;
                 printf("1-CAPRICORN \n 2-AQUARIUS \n 3-PISCES \n 4-ARIES \n 5-TAURUS \n 6-GEMINI \n 7-CANCER \n 8-LEO \n 9-VIRGO \n 10-LIBRA \n 11-SCORPIO \n 12-SAGITTARIUS \n");
-                scanf("ENTER CHOICE %d \n",&count);
+                printf("ENTER CHOICE\n");
+                scanf("%d", &count);
                 switch(count)
                 {
                     case 1:
