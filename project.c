@@ -10,9 +10,9 @@ int main()
         printf("==============================================\n\n");
         printf("     Hi %s                     \n", name);
         printf("     Welcome to the fortune teller        \n"); 
-        printf("     Enter your birth month(1-12):        \n"); 
+        printf("     Enter your birth month(01-12):        \n"); 
         scanf("%d", &m);  
-        printf("    Enter your birth day:\n");  
+        printf("    Enter your birth day: (dd format) \n");  
         scanf("%d", &day);  
        
         if( (m == 12 && day >= 22) || (m == 1 && day <= 19) )  
