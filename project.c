@@ -666,6 +666,163 @@ int main()
                     default: 
                     printf("Invalid Keywords entered.");
                     break;
+                        
+                        
+                   
+                        else
+if ((m == 3 && day >= 20) || (m == 4 && day <= 19))
+{
+  switch (count)
+
+    {
+    case 1:
+      printf ("PROS\n");
+      printf
+	("Their trust and faith is the only thing that makes their bond or compatibility stronger and relationship last longer. Both signs can comfortably share their darkest secrets with one another without feeling vulnerable or ashamed.\n");
+      printf ("CONS\n");
+      printf
+	("Their stubborn nature is something to be concerned about as both strong-headed partners won't agree on surrendering to the other. Since both the signs like to take control in a relationship, they may find it harder to solve their disputes. Unnecessary tensions and conflicts might keep occurring from time to time. These stark differences determine how bumpy a ride they are going to have as they sail through, together.\n");
+      printf ("CONCLUSION\n");
+      printf ("Communication=20percent \n");
+      printf ("Compatibility=15percent \n");
+      break;
+
+    case 2:
+      printf ("PROS\n");
+      printf
+	("Since both Aquarius and Aries are extremely smart individuals, they will never run out of thought-provoking and mentally stimulating conversations. They enjoy every second of being with each other and there is not a single dull moment in between Aquarius and Aries relationship.\n");
+      printf ("CONS\n");
+      printf
+	("The frequent fights between Aquarius and Aries arise from their relatively different approach to life. While Aries is emotional and expressive, Aquarius is reticent and subtle. The Aries needs affection from time to time and the Water bearers refusal to express might drive a wedge between the two zodiac signs.\n");
+      printf ("CONCLUSION\n");
+      printf ("Communication=100percent \n");
+      printf ("Compatibility=85percent \n");
+      break;
+
+    case 3:
+      printf ("PROS\n");
+      printf
+	("Pisces prefers surprises and doesn't think much before taking up an unknown endeavor. The Aries is also a risk-taker and spontaneous in making decisions and that is understood well by the fish. The Piscean is well aware of the aims and dreams of Aries, so they will always stay in their support. While the Aries will be protective and possessive for their Piscean partner because of their own strong mentality. The Aries will try to protect the Piscean as they are aware of their sensitive and emotional behavior.\n");
+      printf ("CONS\n");
+      printf
+	("The biggest disadvantage of their love relationship is that both Pisces and Aries. Pisces sun sign have different ways of expressing their feelings. Pisces likes to deal with different feelings and emotions at different times while the Aries man and woman is quite specific and rigid about their emotions. Pisces don't have a constant feeling for anyone and their emotionality towards various things will fluctuate from time to time. This is not at all good for their relationship as this can create misunderstandings between them which might create trust issues for both of them. Pisces might also get hurt due to the aggressive nature of Aries.\n");
+      printf ("CONCLUSION\n");
+      printf ("Communication=10percent \n");
+      printf ("Compatibility=25percent \n");
+      break;
+
+    case 4:
+      printf ("PROS\n");
+      printf
+	("For Aries and Aries love compatibility to work, they will always need to work on compromise otherwise the two goats can end up with locked horns if the differences are not cut in the nip. Aries and Aries relationship can be a powerful one as they will be able to build an empire together and take on the world when they are with each other.\n");
+      printf ("CONS\n");
+      printf
+	(" As much as fire is an amazing element of nature, it can never be controlled. It cooks our meals, keeps us warm, and powers everything. But by nature, fire does not WANT to be controlled, and neither do fire signs. In an Aries and Aries relationship compatibility there must be room for individuality, exploration and autonomy within safe boundaries. Making and keeping a commitment has to be handled delicately, so as not to lose the spark or smother the flame.\n");
+      printf ("CONCLUSION\n");
+      printf ("Communication=100percent \n");
+      printf ("Compatibility=63percent \n");
+      break;
+
+    case 5:
+      printf ("PROS\n");
+      printf
+	("Taurus will be attracted to the confidence and charm of the Ram. On the other hand, the Arian will be drawn by the quiet power and ceaseless ambition of the Taurean personality. If they manage to strike the right chord, this is a combination that can go the distance.\n");
+      printf ("CONS\n");
+      printf
+	("Aries has inborn leadership qualities. However, that can turn into a controlling trait from time to time. The Taurean, who hates being ordered around by other people, will find this extremely hard to take. On the other hand, the Bulls stubbornness to change its point of view will frustrate the Arian endlessly. The Ram always wants to be right.\n");
+      printf ("CONCLUSION\n");
+      printf ("Communication=10percent \n");
+      printf ("Compatibility=25percent \n");
+      break;
+
+    case 6:
+      printf ("PROS\n");
+      printf
+	("The fact that Aries and Gemini have just one sign between them on the zodiac chart helps them understand each other on an almost visceral level. The ease with which Gemini zodiac natives handle all kinds of social situations is admired by Aries man and woman. On the other hand, the Ram's conviction and emotional resilience is extremely helpful to settle the Gemini's nerves, which are as fickle as his overall mindset.\n");
+      printf ("CONS\n");
+      printf
+	("While Aries and Gemini are very good at starting things, they're just as bad at finishing something they've started. They require constant motivation to touch the finish line, and as both of them struggle in the final lap, it is tough for Aries man and Gemini woman and vice-versa to usher each other to complete anything they have taken on, be it individually or as a pair.\n");
+      printf ("CONCLUSION\n");
+      printf ("Communication=100percent \n");
+      printf ("Compatibility=85percent \n");
+      break;
+
+    case 7:
+      printf ("PROS\n");
+      printf
+	("The thing that works the best for Aries and Cancer love match is that both Aries man and Cancer woman and vice-versa are extremely devoted and loyal to their loved ones. They will do everything in their power to protect their family from harm and are not afraid to fight the world to bring a single smile to their faces. The domestic care that the crab provides in the relationship makes the Aries will secure and content.\n");
+      printf ("CONS\n");
+      printf
+	("Both these zodiac signs are cardinal in nature, which means they find it difficult to cope to changing circumstances and do not like to compromise on their personality to adapt to their surroundings. This might be a real problem in their relationship, as neither Aries nor Cancer are comfortable with altering their beliefs or convictions.\n");
+      printf ("CONCLUSION\n");
+      printf ("Communication=20percent \n");
+      printf ("Compatibility=15percent \n");
+      break;
+
+    case 8:
+      printf ("PROS\n");
+      printf
+	("They motivate and support each other in life for they are well aware of each others ambitions and dreams in life. They let each other enjoy the spotlight as it comes their way. Since they are open about their feelings, they form a passionate, enthusiastic and secure pair.\n");
+      printf ("CONS\n");
+      printf
+	("An Aries and Leo may reach a stage where they may turn against each other. They may witness heated arguments or say hateful things to each other. They might destroy their relationship beyond repair for they are highly temperamental and ego-centric.\n");
+      printf ("CONCLUSION\n");
+      printf ("Communication=60percent \n");
+      printf ("Compatibility=80percent \n");
+      break;
+
+    case 9:
+      printf ("PROS\n");
+      printf
+	("The Virgo and Aries relationship can be explosive, in a good way. Bringing fire and earth sign has mostly seen positive results. With both the signs being powerful, they can make a successful pair. While doting of their partners and being absolutely loyal is true to the Aries nature, the Virgo is gentle, caring and responsible for their partner.\n");
+      printf ("CONS\n");
+      printf
+	("Aries man and Virgo woman and vice-versa are both signs that can't take things going against their will. Aries has a needs to have people with similar energy around them. Whereas, Virgo has an inherent need to have people do things when and how they deem fit. The energetic Aries can find the authoritarian Virgo tag bit demanding for their taste.\n");
+      printf ("CONCLUSION\n");
+      printf ("Communication=25percent \n");
+      printf ("Compatibility=25percent \n");
+      break;
+
+    case 10:
+      printf ("PROS\n");
+      printf
+	("Aries and Libra will always find an ethereal pull and attraction towards each other. What very few people know, is that this pull and attraction makes for a very successful relationship. Because they find themselves insanely bonded, they will find ways of changing themselves, to fit each other. In short, there is no difference grave enough to keep these two away from each other. Both signs are mildly romantic, and prefer to see the romance in the everyday of life.\n");
+      printf ("CONS\n");
+      printf
+	("The balanced Libra, may kill the vibe for the enthusiastic Aries. All in all, even though these two signs will be madly in love and attracted to each other, they will not be right for the two individuals in the relationship. They both may give up on self-development because it is too tiring to explain to their partner why they need to learn something new. They may both stop doing things together, because the other has a different way of doing it, that they don't appreciate.\n");
+      printf ("CONCLUSION\n");
+      printf ("Communication=45percent \n");
+      printf ("Compatibility=50percent \n");
+      break;
+
+    case 11:
+      printf ("PROS\n");
+      printf
+	("The strong, tactical approach of the Scorpion helps Aries give direction to its sometimes wayward dreams. The former also teaches the latter how to take things slowly and think without acting in emotionally draining situations. On the other hand, the Arian brings a certain degree of warmth and excitement to the Scorpions life. The Ram teaches the Archer to let go of certain insecurities in life and encourages him or her to embrace positivity no matter what any particular situation stands for.\n");
+      printf ("CONS\n");
+      printf
+	("The brashness and harsh words of the Arian can be too much to handle for the Scorpion, on some occasions. This can lead to fights between the Aries and Scorpio, and they are both not inclined towards compromise in such situations, which leads to an augmentation of their argument more often than not. The extroverted and social Aries is different from the aloof, and sometimes standoffish, Scorpion. They find it difficult to see eye to eye in certain situations because of their mutual differences.\n");
+      printf ("CONCLUSION\n");
+      printf ("Communication=25percent \n");
+      printf ("Compatibility=25percent \n");
+      break;
+
+    case 12:
+      printf ("PROS\n");
+      printf
+	("The physical as well as emotional intimacy that these signs share is second to none.  the best thing about the same is that Aries and Sagittarius do not hold grudges for too long and forgive easily. This helps them get over any argument with ease and avoid letting it hamper the growth of their bond. It is almost as if the two fire signs have enduring reserves of energy and will never run out of the same. However, if one of them does feel the gloom from time to time, the other is aware and understanding enough to lift his or her partner's spirits almost immediately.\n");
+      printf ("CONS\n");
+      printf
+	("Both Aries and Sagittarius have an immense sense of pride and cannot back down from a fight. While these are good things more often than not, they might strain their relationship from time to time. When an argument does ensue from mutual differences, they will end up saying harsh words to each other and will fight ceaselessly without looking for a compromise.\n");
+      printf ("CONCLUSION\n");
+      printf ("Communication=60percent \n");
+      printf ("Compatibility=80percent \n");
+      break;
+
+    default:
+      printf ("Invalid Keywords entered.");
+      break;
+
                 }
             }
         }
