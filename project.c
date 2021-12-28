@@ -1218,6 +1218,138 @@ case 12:
                     break;
 }
 }
+				
+				
+else if( (m == 7 && day >= 23) || (m == 8 && day <= 22) )
+{
+    switch(count)
+{
+case 1:
+                    printf("PROS\n");
+                    printf("Capricorn and Leo are both intrinsically different signs, but can find a way to keep each other hooked and happy for the long haul. They are enticed by the idea of power and if they manage to work towards one particular goal and put in immense amount of effort to achieve the same, they are likely to blow every other couple out of the water.\n");
+                    printf("CONS\n");
+                    printf("Leos are emotional beings who are constantly flipping between extreme moods. The goat, on the other hand, is a balanced and steady sign that does not believe in inconsistency. Leo's fiery temper and over-the-top excitement for trivial things might not bode well with the practical Capricorn.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=25percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+                    
+case 2:
+                    printf("PROS\n");
+                    printf("The water-bearer is likely to complement the flame in order to let it shine in full glory. Likewise, even the air sign is bound to find inspiration from the Lion. This way, both signs seem to push each other towards greatness. Leos are built to motivate whereas the water bearers are full of ambitions. Both their qualities seem to piece perfectly together, making their union different and unique.\n");
+                    printf("CONS\n");
+                    printf("Leo man and woman are extremely generous lovers but they believe that love is a two-way street. If they feel that love is not returned in a similar manner, they are likely to get upset. The Lion’s continuous call for attention can be a little enduring and when their demands are not fulfilled, they tend to get even more flustered.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=45percent \n");
+                    printf("Compatibility=50percent \n");
+                    break;
+                    
+case 3:
+                    printf("PROS\n");
+                    printf("The biggest advantage of their relationship is that both of them believe that love has got secret powers to fulfill their lives. Both of them will go to any extent to keep their partners happy and feel loved in their relationship. The Lion will appreciate the core qualities of the Pisces who has an unending warmth and compassion for all the living beings. While generous nature of Leo man and woman will help the Pisces to feel loved and secure.\n");
+                    printf("CONS\n");
+                    printf("They will have strong communication with each other but at times they will misunderstand each other which can create conflicts. They both will think that they are right but none of them will understand that they have struck the wrong chord. The lion needs to take care of their aggressive behavior while the Pisces need to control their idealism in order to not bother Leo.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=25percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+                    
+case 4:
+                    printf("PROS\n");
+                    printf("They motivate and support each other in life for they are well aware of each others ambitions and dreams in life. They let each other enjoy the spotlight as it comes their way. Since they are open about their feelings, they form a passionate, enthusiastic and secure pair.\n");
+                    printf("CONS\n");
+                    printf("An Aries and Leo may reach a stage where they may turn against each other. They may witness heated arguments or say hateful things to each other. They might destroy their relationship beyond repair for they are highly temperamental and ego-centric.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=60percent \n");
+                    printf("Compatibility=80percent \n");
+                    break;
+                    
+case 5:
+                    printf("PROS\n");
+                    printf("Strong determination and decision making power are the common characteristics found in both of them. Leo loves to have the attention from the audience and on the contrary Taurus always finds a safe place among the near and dear ones.\n");
+                    printf("CONS\n");
+                    printf("Some problems may arise due to their personal dispositions and incompatibility. The Taureans being egotistical may need to step down a bit in front of the lions to sustain the relationship for long-term. The Leo with Lion as the symbol always wants to be at the centre of attention and that may hurt a Taureans' ego.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=20percent \n");
+                    printf("Compatibility=15percent \n");
+                    break;
+                    
+case 6:
+                    printf("PROS\n");
+                    printf("If there is one thing that can sweep the Leo off their feet, it is the charm and intelligence of the Gemini. Their unpredictable personality is like a challenge for the Leo, and they cannot keep themselves from delving deeper and deeper into the depth of the Gemini's intriguing mind. The vivacity of the Leo is what attracts the Gemini, who is blown away by the Leo's positivity and graciousness, while the Leo falls deeply for the kindness with which the Gemini operates at all times.\n");
+                    printf("CONS\n");
+                    printf("Both these signs love their independence a bit too much and yet, can step on each other's toes at all times. They are both very dominating and find it difficult to listen to the other side. Their relationship might be too impulsive for their own good and their quarrels can turn into ugly fights in no time.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=100percent \n");
+                    printf("Compatibility=85percent \n");
+                    break;
+                    
+case 7:
+                    printf("PROS\n");
+                    printf("Both the signs seem to complement each other perfectly. While Leo man and woman love being the center of attraction, Cancerians’ generous approach seems to fulfill this particular desire of their partner. The Lion feels valued and pampered thanks to the comforting nature of the Crabs.\n");
+                    printf("CONS\n");
+                    printf("Considered to be clingy in nature, Leos can turn out to be overly possessive lovers. This could lead to a few hiccups in a relationship. Lions get easily flustered if proper communication does not take place. But since Cancer man and woman prefer a quiet atmosphere, the Lions may find it hard to survive in such an environment.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=10percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+                    
+case 8:
+                    printf("PROS\n");
+                    printf("The positive aspect of a Leo-Leo love relationship is that there is a clear understanding in their lives. Being two members of the same zodiac sign, Leo man and woman generally value similar things, such as courage, purity and the inner strength that someone possesses.\n");
+                    printf("CONS\n");
+                    printf("However, not everything in the Leo and Leo compatibility is goody-goody. The Lions, as already pointed out above, have huge egos, and the division of duties and responsibilities in this relationship is not going to be a cakewalk. One solution that is bandied around is that they will have to understand that instead of trying to establish their supremacy.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=80percent \n");
+                    printf("Compatibility=82.5percent \n");
+                    break;
+                    
+case 9:
+                    printf("PROS\n");
+                    printf("Leo is a Fire sign while Virgo is an Earth sign. They are both set in their ways, but also have a unique understanding between them. Since they are next to each other on the zodiac chart, their bond grows due to the innate sense of oneness that they have with each other. Leo is likely to take the centre stage wherever this couple goes, and the introverted and shy Virgo is more than happy to be at the sidelines.\n");
+                    printf("CONS\n");
+                    printf("Leo’s need for attention and constant admiration will go lost on the pragmatic mind of the Virgo, who will find it unnecessary. Hence, the latter might choose to ignore the former’s need for appreciation. However, an under-appreciated Lion might just be the bitterest partner to be with in a relationship. Virgo, on the other hand, can get too critical and controlling at times.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=10percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+                    
+case 10:
+                    printf("PROS\n");
+                    printf("Libra and Leo are two of the most loyal signs of the zodiac. Once they decide to commit to each other, they will try their best to make their relationship work and will truly go till the ends of the Earth for their partner’s happiness. Leo and Libra are extremely devoted to each other and thus, will build a sense of security and trust in the relationship very soon.\n");
+                    printf("CONS\n");
+                    printf("Both Libra and Leo find it very difficult to change their characteristics for anyone. However, they expect others to adapt to their behaviour and personalities. Hence, it creates a real problem in their relationship and may case friction between the two from time to time. Libra’s indecisive nature can irritate the firm and unwavering Lion, who cannot stand second guessing anything in its life.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=100percent \n");
+                    printf("Compatibility=85percent \n");
+                    break;
+                    
+case 11:
+                    printf("PROS\n");
+                    printf("Leo and Scorpio are both fixed signs. This helps them understand each other on a different level and creates a functional dynamic between the two. They trust each other to the hilt and that, in itself, is the biggest positive of the Leo Scorpio compatibility.\n");
+                    printf("CONS\n");
+                    printf("Both Leo and Scorpio are known for their inflexibility and refusal to adjust to their partner’s personalities. This will certainly create friction in their relationship, more so when they get caught up in arguments and ceaseless bickering.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=20percent \n");
+                    printf("Compatibility=15percent \n");
+                    break;
+                    
+case 12:
+                    printf("PROS\n");
+                    printf("Sagittarius draws the Lion due to its immense optimism, its incredible zest for life, and its ceaseless generosity. Leo feels content and satisfied in the presence of the Archer and is always amazed by the uninhibited beauty of his/her partner’s personality. Sagittarius, on the other hand, is attracted to the sheer strength of the Leo.\n");
+                    printf("CONS\n");
+                    printf("Since this is a fusion of two fire signs, the occasional sparks will fly between these two souls. While Sagittarius is fine with Leo leading the charge, the Archer will not be able to take controlling behaviour from its partner. Sagittarius sign is addicted to its independent and cannot stand being thwarted by anyone in any circumstances.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=60percent \n");
+                    printf("Compatibility=80percent \n");
+                    break;
+                    
+default: 
+                    printf("Invalid Keywords entered.");
+                    break;
+                    
+}
+}
     }  
 				
 	else if(num==5) //fortunes-simran
