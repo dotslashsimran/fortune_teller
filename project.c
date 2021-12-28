@@ -825,8 +825,138 @@ if ((m == 3 && day >= 20) || (m == 4 && day <= 19))
 
                 }
             }
-        }
-        else if(num==5) //fortunes-simran
+    
+			
+else if( (m == 4 && day >= 20) || (m == 5 && day <= 20) )  
+
+{
+  switch (count)
+
+    {
+case 1:
+                    printf("PROS\n");
+                    printf("The biggest advantage of this relationship is that Capricorn and Taurus have a lot in common with each other. They are practical, strong-willed, driven, and steadfast individuals. The quiet confidence of the Goat draws the Taurean, while the stubborn persistence of the Bull attracts the Capricorn.\n");
+                    printf("CONS\n");
+                    printf("The problem with this relationship is that both the signs are a bit too serious for their own good sometimes. This tends to make their relationship match mundane and even boring at times.The Capricorn is a bit too quiet and reticent even for the usually inexpressive Bull. The Taurean feels as if his/her partner is always wound up about one thing or the other and does not know how to relax once in a while.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=60percent \n");
+                    printf("Compatibility=80percent \n");
+                    break;
+                    
+case 2:
+                    printf("PROS\n");
+                    printf("A Taurean’s calm temperament helps to resolve the apprehensions of an Aquarian. At the same time, an Aquarian’s rooted thoughts and expressions are what truly attracts a Taurean.Both being extremely loyal signs, will be devoted to each other and their zodiac match relationship. Both shall find it easier to trust, provided the Taurean remains truthful and the Aquarian does not keep secrets.Since both prefer to steer clear from unwanted squabbles, they shall be able to solve any issue at hand before things go out of control.\n");
+                    printf("CONS\n");
+                    printf("Taurus man and Taurus woman may find it a little tough to keep up with the exciting adventures of Aquarians. The Taurean may not be pleased with the water-bearer’s need to fly high even in uncharted waters, as they prefer to remain humble and grounded. Hence, the issues that crop up between the air and the earth signs are mainly due to these reasons.Their desires differ from each other too. A Taurean will always want to acquire materialistic things whereas, an Aquarian is more interested in holding onto personal consequences that are on an intellectual level. These two contrasting desires might act as a spoke between them creating tensions and misunderstandings.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=20percent \n");
+                    printf("Compatibility=15percent \n");
+                    break; 
+                    
+case 3:
+                    printf("PROS\n");
+                    printf("They both believe in waiting for their perfect match, rather than being with the wrong one. They will want to experience every level of love in their relationship. They both will put up equal efforts to establish a happy and successful relationship between them.\n");
+                    printf("CONS\n");
+                    printf("Taurus man and woman are very stubborn in nature which can be sometimes frustrating for Pisces. Taurus is short-tempered and this won’t be received well at the Pisces end as this will instill a feeling of fear and disappointment between them. Pisces may feel that Taurus is insensitive and unemotional while Taurus might get frustrated because of the constant need for emotional support by the Piscean.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=10percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+
+case 4:
+                    printf("PROS\n");
+                    printf("Taurus will be attracted to the confidence and charm of the Ram. On the other hand, the Arian will be drawn by the quiet power and ceaseless ambition of the Taurean personality. If they manage to strike the right chord, this is a combination that can go the distance.\n");
+                    printf("CONS\n");
+                    printf("Aries has inborn leadership qualities. However, that can turn into a controlling trait from time to time. The Taurean, who hates being ordered around by other people, will find this extremely hard to take. On the other hand, the Bulls stubbornness to change its point of view will frustrate the Arian endlessly. The Ram always wants to be right.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=10percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+                    
+case 5:
+                    printf("PROS\n");
+                    printf("One of the most positive aspects of this Taurus and Taurus love match is that they are not really lazy as people make them out to be. It is just that they conscientiously feel that wasting energy over something that has no quantifiable results is a waste of time. This conserving of energy contributes to the fact that when strength is really needed, they have enough of it to deal with the challenges.\n");
+                    printf("CONS\n");
+                    printf("Coming to the negative aspects of a two Taurus compatibility, it has been proven that they resist change until it becomes absolutely imperative to do so. They like to function in their comfort zone, and feel that if something is not broken, where is the need to fix it? However, perhaps the most disturbing aspect of a Taurus-Taurus association is their unwillingness to apologise or repent after they have made a mistake. They consider apologising to be a sign of weakness.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=80percent\n");
+                    printf("Compatibility=82.5percent \n");
+                    break;
+                    
+case 6:
+                    printf("PROS\n");
+                    printf("The charm, confidence, and ceaseless wit of the Gemini attracts the shy Taurean. On the other hand, the trustworthy nature and mental toughness of Taurus makes the former feel secure in the relationship. The vivacity of Twins can help the Taurean ease up a little bit and raise his or her spirits on most occasions. Meanwhile, the practical and patient mind of this earth sign can help the air sign with his or her constantly fluttering frame of mind.\n");
+                    printf("CONS\n");
+                    printf("Taurus has a practical approach to everything and that quality might look boring to Gemini, who loves to jump into unexpected situations with spontaneity. The stubbornness of the Taurean, coupled with the Gemini's tendency to argue, can lead to serious fights between the Taurus man and Gemini woman and vice-versa.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=10percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+                    
+case 7:
+                    printf("PROS\n");
+                    printf("Cancer loves to build a home, and Taurus yearns to bring prosperity and beauty to that home. Thus, they form a functional dynamic around each other and are in sync at almost all times. Neither is afraid of committing to the other, but both will not rush into anything big unless they have spent the appropriate amount of time in developing their relationship. Cancer man and Cancer woman are gentle and extremely understanding towards the insecurities that are buried deep within the bull's heart.\n");
+                    printf("CONS\n");
+                    printf("Both the signs are so cautious that their relationship might stumble across a point where it dwells into stagnation and boredom. Cancer is impulsive at times, but that might not help the relationship unless that spontaneity is synchronous with the crazy side of the bull.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=100percent \n");
+                    printf("Compatibility=85percent \n");
+                    break;
+                    
+case 8:
+                    printf("PROS\n");
+                    printf("Strong determination and decision making power are the common characteristics found in both of them. Leo loves to have the attention from the audience and on the contrary Taurus always finds a safe place among the near and dear ones.\n");
+                    printf("CONS\n");
+                    printf("Some problems may arise due to their personal dispositions and incompatibility. The Taureans being egotistical may need to step down a bit in front of the lions to sustain the relationship for long-term. The Leo with Lion as the symbol always wants to be at the centre of attention and that may hurt a Taureans' ego.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=20percent \n");
+                    printf("Compatibility=15percent \n");
+                    break;
+                    
+case 9:
+                    printf("PROS\n");
+                    printf("There is a lot that these two earth signs have in common with each other. While one is ruled by the feminine Venus, the latter is ruled by the hottest planet, Mercury. Goes to show that there will be no dearth of warmth and caring in this relationship.\n");
+                    printf("CONS\n");
+                    printf("Even though both these signs are earth signs, they are different in the core of their nature. While Taurus is a fixed sign, Virgo is a mutable sign. As such, whenever the Virgo will want to make any changes to their lifestyle, or even routine, the Taurus will first try to negate it. Sure, if the Virgo talks them into it, there is a chance that they may agree. But the chances are slim.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=60percent \n");
+                    printf("Compatibility=80percent \n");
+                    break;
+                    
+case 10:
+                    printf("PROS\n");
+                    printf("The Taurus Libra relationship will be a tumultuous one. Not everyone around them will understand it, but their romance will be the most beautiful one to them. This is the couple that will make sure that if anyone sees them fight, they also see them making it up to each other. Both vocal signs, this union is going to be a verbose one.\n");
+                    printf("CONS\n");
+                    printf("This is a rare kind of relationship where the strengths are the weaknesses. Aries and Libra are very different from each other. While they may think that they can help each other, that is exactly what this relationship can end up being for them- a project! They will both think that it is their responsibility to bail the other out of whatever problem they are in. This is bad.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=25percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+                    
+case 11:
+                    printf("PROS\n");
+                    printf("This is a relationship that survives and thrives of a strong foundation of mutual trust between the two partners. Taurus and Scorpio are both extremely committed lovers and will thus make each other feel secure and cherished in the relationship. They are amongst the strongest compatibilities of the zodiac because of their intense and unshakable emotional as well as physical connect with each other.\n");
+                    printf("CONS\n");
+                    printf("Both these signs are extremely stubborn and thus, when they find themselves on the opposite sides on an argument, it is difficult for them to find middle ground. They are extremely inflexible and cannot compromise in case of a strong and heated disagreement. There will be an omnipresent tussle for power in the relationship and it might seem like both the signs are trying to get the reins to each other.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=percent \n");
+                    printf("Compatibility=percent \n");
+                    break;
+                    
+case 12:
+                    printf("PROS\n");
+                    printf("The ceaseless optimism exhibited by the Sagittarius will amaze the Taurus, but will also help him/her relax from time to time. The Bull will learn how to ease up and enjoy the little things in life due to the childlike enthusiasm and vivacity of the Sagittarius’s personality. Taurus will bring a semblance of calm and order to the wild and cluttered world of the Sagittarius. The Archer will get a road map to materialize their idealistic plans into realistic execution from his/her partner. While Sagittarius is louder and Taurus is relatively reticent, they are both incredibly passionate about life.\n");
+                    printf("CONS\n");
+                    printf("Both Taurus and Sagittarius are extremely stubborn and unyielding. They don’t see eye to eye on eight out of ten matters, and will constantly have contrasting opinions about everything. That would be okay, if they were both not so inflexible and unwilling to compromise their stand.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=25percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+    }
+    }
+    }  
+				
+	else if(num==5) //fortunes-simran
         {
             if( (m == 12 && day >= 22) || (m == 1 && day <= 19) ) //capricon
             { 
