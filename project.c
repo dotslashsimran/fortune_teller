@@ -1081,6 +1081,132 @@ case 12:
                     
 }
 }
+				else if( (m == 6 && day >= 21) || (m == 7 && day <= 22) )  
+{
+                switch(count)
+                {
+
+case 1:
+                    printf("PROS\n");
+                    printf("All relationships are about sensitivity and understanding. Thanks to the Cancer, there will be no dearth of those in the relationship. The Capricorn will constantly work at bettering themselves to ensure that the already loyal Cancer has no reason to look outside the relationship. While Cancer is not materialistic, they will adapt to Capricorn's innocently materialistic ways, to start speaking their language.");
+                    printf("CONS\n");
+                    printf("All relationships are about sensitivity and understanding. Thanks to the Cancer, there will be no dearth of those in the relationship. The Capricorn will constantly work at bettering themselves to ensure that the already loyal Cancer has no reason to look outside the relationship. While Cancer is not materialistic, they will adapt to Capricorn's innocently materialistic ways, to start speaking their language.");
+                    printf("CONCLUSION\n");
+                    printf("Communication=45percent \n");
+                    printf("Compatibility=50percent \n");
+                    break;
+                    
+ case 2:
+                    printf("PROS\n");
+                    printf("The mutual need to please and care for their partner is one of the corner stones of Aquarius and Cancer love match. The Aquarius Cancer compatibility stands tall on the fact that these two will ensure that they do not put each other in an uncomfortable situation. All the while, making sure they are not losing their comfort as well.\n");
+                    printf("CONS\n");
+                    printf("Alright, so they take care of each other and are not averse to speaking their mind in the relationship. However, this is when all is going well. The insecure Cancer, if triggered, can face issues with the open to the universe attitude of the Aquarius. More so, the Aquarius, when faced with any restriction, may rebel very drastically to the Cancer.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=25percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+                    
+case 3:
+                    printf("PROS\n");
+                    printf("Pisces and Cancer are both very similar to each other. This could be a very major pro in the relationship. They are both dreamers, they both love staying in, they both are the kinds who are very selective of the ones they invest their emotions in. Both these water signs will have a great equation, finding a common ground, almost, as soon as a difference as occurred.\n");
+                    printf("CONS\n");
+                    printf("When dealing with water, we are all aware of the most important aspect. No matter how important water is to our survival, it is also capable of drowning us. This simple analogy holds true for this union as well. The Pisces Cancer compatibility can go sour with a simple shift. The great romance and glamour that rules their relationship, could drown them both. Pushing them into depression and anxiety.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=60percent \n");
+                    printf("Compatibility=80percent \n");
+                    break;
+                    
+case 4:
+                    printf("PROS\n");
+                    printf("The thing that works the best for Aries and Cancer love match is that both Aries man and Cancer woman and vice-versa are extremely devoted and loyal to their loved ones. They will do everything in their power to protect their family from harm and are not afraid to fight the world to bring a single smile to their faces. The domestic care that the crab provides in the relationship makes the Aries will secure and content.\n");
+                    printf("CONS\n");
+                    printf("Both these zodiac signs are cardinal in nature, which means they find it difficult to cope to changing circumstances and do not like to compromise on their personality to adapt to their surroundings. This might be a real problem in their relationship, as neither Aries nor Cancer are comfortable with altering their beliefs or convictions.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=20percent \n");
+                    printf("Compatibility=15percent \n");
+                    break;
+                    
+case 5:
+                    printf("PROS\n");
+                    printf("Cancer loves to build a home, and Taurus yearns to bring prosperity and beauty to that home. Thus, they form a functional dynamic around each other and are in sync at almost all times. Neither is afraid of committing to the other, but both will not rush into anything big unless they have spent the appropriate amount of time in developing their relationship. Cancer man and Cancer woman are gentle and extremely understanding towards the insecurities that are buried deep within the bull's heart.\n");
+                    printf("CONS\n");
+                    printf("Both the signs are so cautious that their relationship might stumble across a point where it dwells into stagnation and boredom. Cancer is impulsive at times, but that might not help the relationship unless that spontaneity is synchronous with the crazy side of the bull.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=100percent \n");
+                    printf("Compatibility=85percent \n");
+                    break;
+                    
+case 6:
+                    printf("PROS\n");
+                    printf("A strong bond can develop between Cancer and Gemini if both the signs know and understand each other's differences. They have different focal points of looking at the world, but that, in itself, is a positive sign, as it empowers them to learn a number of things from each other.\n");
+                    printf("CONS\n");
+                    printf("The homemaking nature of Cancer clashes violently with the independence-seeking persona of the Gemini. It is difficult for them to find common grounds together. The emotional dependence of Cancer can be too caging for the carefree Gemini, while the unpredictable brashness of the latter can cause serious insecurity problems for the Crab.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=10percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+                    
+case 7:
+                    printf("PROS\n");
+                    printf("The most positive aspect about Cancer compatibilityis that, since they are so amiable, they tend to take very good care of each other. They make very good friends and can take the liberty to criticize your faults which you would not tolerate coming from someone else. They are also talented and share a great sense of humour.\n");
+                    printf("CONS\n");
+                    printf("By far the most negative aspects of a the Cancer male and Cancer female relationship is that they both possess a cribbing nature, and are forever insecure about their financial position, no matter how much wealth they may have stashed away in the bank, or how many blue chip stocks they may hold, or how much real estate they own.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=80percent \n");
+                    printf("Compatibility=82.5percent \n");
+                    break;
+                    
+case 8:
+                    printf("PROS\n");
+                    printf("Both the signs seem to complement each other perfectly. While Leo man and woman love being the center of attraction, Cancerians’ generous approach seems to fulfill this particular desire of their partner. The Lion feels valued and pampered thanks to the comforting nature of the Crabs.\n");
+                    printf("CONS\n");
+                    printf("Considered to be clingy in nature, Leos can turn out to be overly possessive lovers. This could lead to a few hiccups in a relationship. Lions get easily flustered if proper communication does not take place. But since Cancer man and woman prefer a quiet atmosphere, the Lions may find it hard to survive in such an environment.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=10percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+                    
+case 9:
+                    printf("PROS\n");
+                    printf("Virgo is drawn towards a pragmatic, stable, and comfortable life at home. That is exactly what the Cancerian brings to the relationship. The easy Virgo personality makes life wonderful for the Crab, who loves to build a harmonious and non-dramatic relationship with its partner.\n");
+                    printf("CONS\n");
+                    printf("The sentimental sign of Cancer personality might not be completely satisfied due to the emotionally reserved behaviour of the Virgo. The Crab can also be too inflexible at times, which will frustrate his/her extremely practical partner.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=100percent \n");
+                    printf("Compatibility=85percent \n");
+                    break;
+                    
+case 10:
+                    printf("PROS\n");
+                    printf("Cancer is a family-oriented sign that loves to build a secure home with interwoven bonds. Libra, on the other hand, likes to come to a comfortable and cozy home every day, one which it can enhance with beautiful objects. This creates a functional rapport between the two signs and they become synchronous to each other’s qualities and traits.\n");
+                    printf("CONS\n");
+                    printf("Cancer is an emotional sign that is not afraid to express its feelings. Libra, on the other hand, might be reserved in terms of emotions sometimes. This may lead to lack of understanding between the Cancer Libra and cause some wrinkles in their love life and relationship. Libra and Cancer, both are leaders in their own way, hence it becomes difficult for them to let each other take the reins of the relationship from time to time.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=20percent \n");
+                    printf("Compatibility=15percent \n");
+                    break;
+                    
+case 11:
+                    printf("PROS\n");
+                    printf("Scorpio and Cancer can form a unique bond together, wherein they tend to bring out the best in each other. Cancer is a Cardinal sign while Scorpio is a Fixed sign. Hence, they are both powerful entities coming together to fuse into an unbreakable union.\n");
+                    printf("CONS\n");
+                    printf("The problem that these star signs might face is that they are both very domineering and can struggle to give in to each other’s whims and demands. Cancer wants autonomy at home, while Scorpio prefers to function as an independent entity at all times.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=60percent \n");
+                    printf("Compatibility=80percent \n");
+                    break;
+                    
+case 12:
+                    printf("PROS\n");
+                    printf("Sagittarius is a Mutable sign, while Cancer has an extremely giving personality. Hence, when these two individuals try to build a romantic association together, they will not be afraid to adjust and compromise anywhere along the way. This will give the must-needed elasticity to their equation and it will make it easier for them to build a strong sense of mutual understanding.\n");
+                    printf("CONS\n");
+                    printf("Cancer has domineering qualities somewhere in its personalities and thus, will want to take control inside the house. While that is fine with the Archer for most part, it will turn into frustration for him/her if it goes beyond the threshold.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=percent \n");
+                    printf("Compatibility=percent \n");
+                    break;
+}
+}
     }  
 				
 	else if(num==5) //fortunes-simran
