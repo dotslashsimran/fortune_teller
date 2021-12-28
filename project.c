@@ -954,6 +954,133 @@ case 12:
                     break;
     }
     }
+				
+				else if( (m == 5 && day >= 21) || (m == 6 && day <= 20) )
+{
+    switch(count)
+    {
+case 1:
+                    printf("PROS\n");
+                    printf("Capricorns and Geminis are both individuals who love to work at something and make it the best possible experience for themselves. The Capricorn drive, couple with the Gemini dynamism, this relationship can be quite an interesting one. If worked on right, this here is a power couple in the making.\n");
+                    printf("CONS\n");
+                    printf("We have spoken about how the personality differences can work for the pair. Now let us see the possible difficulties. The Gemini and Capricorn zodiacs have a tendency to be attractive, charming and great liars. As such, chances of indiscretion are higher in Capricorn man Gemini woman and vice-versa couple. Jealousy and possessiveness are vices that both zodiacs are equally addicted to, as such, peace is a far cry in this pair.");
+                    printf("CONCLUSION");
+                    printf("Communication=25percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+                    
+case 2:
+                    printf("PROS\n");
+                    printf("The knowledge seeking Gemini is bound to be ethereally attracted to the knowledge bearing Aquarius. The Aquarius on the other hand, gets a great deal of comfort in sharing their sea of knowledge with an eager soul. For them to keep away from each other, seems almost too difficult.Not just a loving couple, the Aquarius man and Gemini woman and vice-versa will have a relationship that will translate to every walk of life. While most couples can't work together professionally, the Aquarius and Gemini can make a great professional team.\n");
+                    printf("CONS\n");
+                    printf("Both the signs tend to get habituated to people, in which case, they just go on with associations for the sake of the habit. While this doesn't hinder other aspects of their life, if does start blocking their knowledge flow, eventually making them frustrated and bitter. Needless to say, when air gets bitter, there is only going to be a storm!\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=60percent \n");
+                    printf("Compatibility=80percent \n");
+                    break;
+                    
+case 3:
+                    printf("PROS\n");
+                    printf("Both the Fish and the Twins are mutable signs, which is why it is not difficult for them to adjust to the whims and fancies of each other. Pisces is an extremely caring individual and that does not go unnoticed by the Twins, who feels blessed to receive such unabashed attention from his/her lover. Gemini zodiac sign Gemini zodiac sign, on the other hand, inspires the Piscean with its sharp intellect and strong ambition. If the two signs find a way to build strong mutual understanding, they can learn a lot from each other and grow significantly in the entire process.\n");
+                    printf("CONS\n");
+                    printf("Every individual ruled by Gemini is unpredictable, and is guilty of duality in his/her personality. This is difficult to handle for the Piscean, who cannot understand the sudden mood swings that the Twins goes through, for no apparent reason. Gemini prefers to be emotionally aloof and standoffish, which is a big area of concern for the relationship. Pisces is a sign that feels and expresses immensely and the emotional unavailability of the third sign of the zodiac might put them off on more occasions than one. The latter, on the other hand, is driven by the idea of freedom and cannot stand being caged down to anything or anyone.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=10percent \n");
+                    printf("Compatibility=15percent \n");
+                    break;
+                    
+case 4:
+                    printf("PROS\n");
+                    printf("The fact that Aries and Gemini have just one sign between them on the zodiac chart helps them understand each other on an almost visceral level. The ease with which Gemini zodiac natives handle all kinds of social situations is admired by Aries man and woman. On the other hand, the Ram's conviction and emotional resilience is extremely helpful to settle the Gemini's nerves, which are as fickle as his overall mindset.\n");
+                    printf("CONS\n");
+                    printf("While Aries and Gemini are very good at starting things, they're just as bad at finishing something they've started. They require constant motivation to touch the finish line, and as both of them struggle in the final lap, it is tough for Aries man and Gemini woman and vice-versa to usher each other to complete anything they have taken on, be it individually or as a pair.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=100percent \n");
+                    printf("Compatibility=85percent \n");
+                    break;
+                    
+case 5:
+                    printf("PROS\n");
+                    printf("The charm, confidence, and ceaseless wit of the Gemini attracts the shy Taurean. On the other hand, the trustworthy nature and mental toughness of Taurus makes the former feel secure in the relationship. The vivacity of Twins can help the Taurean ease up a little bit and raise his or her spirits on most occasions. Meanwhile, the practical and patient mind of this earth sign can help the air sign with his or her constantly fluttering frame of mind.\n");
+                    printf("CONS\n");
+                    printf("Taurus has a practical approach to everything and that quality might look boring to Gemini, who loves to jump into unexpected situations with spontaneity. The stubbornness of the Taurean, coupled with the Gemini's tendency to argue, can lead to serious fights between the Taurus man and Gemini woman and vice-versa.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=10percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+                    
+case 6:
+                    printf("PROS\n");
+                    printf("The Twins, irrespective of what they are doing, always have one eye fixed on their goals in life. They have a lot of dreams, and most importantly are very self-motivated to achieve them. They are so involved in their aspirations that they even dream about it. The good thing about a Gemini and Gemini compatibility is that they are very supportive of each others' dreams, have open discussions about their aspirations and what they can do to help each other.\n");
+                    printf("CONS\n");
+                    printf("Though a Gemini-Gemini relationship can be really compatible because of the fact that both are of the same nature and will tend to understand each other very well, there is also the danger that they may tend to take each other too much for granted. This can often lead to too many arguments and conflicts, which if not checked in time, can blow up into major compatibility problems.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=80percent \n");
+                    printf("Compatibility=82.5percent \n");
+                    break;
+                    
+case 7:
+                    printf("PROS\n");
+                    printf("A strong bond can develop between Cancer and Gemini if both the signs know and understand each other's differences. They have different focal points of looking at the world, but that, in itself, is a positive sign, as it empowers them to learn a number of things from each other.\n");
+                    printf("CONS\n");
+                    printf("The homemaking nature of Cancer clashes violently with the independence-seeking persona of the Gemini. It is difficult for them to find common grounds together. The emotional dependence of Cancer can be too caging for the carefree Gemini, while the unpredictable brashness of the latter can cause serious insecurity problems for the Crab.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=10percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+                    
+case 8:
+                    printf("PROS\n");
+                    printf("If there is one thing that can sweep the Leo off their feet, it is the charm and intelligence of the Gemini. Their unpredictable personality is like a challenge for the Leo, and they cannot keep themselves from delving deeper and deeper into the depth of the Gemini's intriguing mind. The vivacity of the Leo is what attracts the Gemini, who is blown away by the Leo's positivity and graciousness, while the Leo falls deeply for the kindness with which the Gemini operates at all times.\n");
+                    printf("CONS\n");
+                    printf("Both these signs love their independence a bit too much and yet, can step on each other's toes at all times. They are both very dominating and find it difficult to listen to the other side. Their relationship might be too impulsive for their own good and their quarrels can turn into ugly fights in no time.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=100percent \n");
+                    printf("Compatibility=85percent \n");
+                    break;
+                    
+case 9:
+                    printf("PROS\n");
+                    printf("Both these signs are ambitious and career-oriented, albeit in different ways. However, their contrasting approach to their professional goals might just end up helping their relationship. The strong determination and unending hard work that the Virgo exhibits tends to inspire the Gemini man or Gemini woman to become consistent in his/her career. On the other hand, the strong ambition and dynamism of the latter tend to make the Virgo more creative and a loss let predictable on the professional front.\n");
+                    printf("CONS\n");
+                    printf("The unpredictable behaviour of the Gemini is a bit too absurd for the Virgo to take. The Earth sign finds it very irresponsible, disruptive, and unnecessary. The recklessness of the Gemini is abhorred by the methodical and tenacious Virgo.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=20percent \n");
+                    printf("Compatibility=15percent \n");
+                    break;
+                    
+case 10:
+                    printf("PROS\n");
+                    printf("The conversations between Gemini and Libra tend to be intellectual, poignant, and very interesting. They usually make the most out of each other’s company and can learn a lot from the time that they spend together. Libra and Gemini have a lot of similarities that help them understand each other easily. This, in turn, makes it easy for the couple to find a functional dynamic between them.\n");
+                    printf("CONS\n");
+                    printf("Gemini is an extremely fickle sign that tends to change its mind on most things all the time. Libra, on the other hand, struggles to make up its mind in the first place. Hence, it is very tough for this couple to come to make any major or minor decision with ease or solidarity. They will keep going back and forth between the options, thereby causing eventual frustration and helplessness between the two.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=60percent \n");
+                    printf("Compatibility=80percent \n");
+                    break;
+                    
+case 11:
+                    printf("PROS\n");
+                    printf("Scorpio has a sense of secrecy around itself, which entices the eternally curious Gemini from the word ‘go’. The charm and wit of the latter does not go unnoticed by the Scorpion, who is a sucker for cerebral and intellectual conversations.\n");
+                    printf("CONS\n");
+                    printf("The physical as well as emotional intimacy in this relationship is a cause for concern. Both these signs of astrology are similar when it comes to the emotional spectrum, but one of them generally tends to feel a lot more than the other at a given moment of time. Hence, it is very difficult for them to be on the same page when it comes to intimacy.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=25percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+                    
+case 12:
+                    printf("PROS\n");
+                    printf("Both Gemini and Sagittarius are Mutable signs. Hence, they are extremely adaptive to their surroundings and do not take long to change their ways according to the requirements of the situation. Gemini is an Air sign while Sagittarius is a Fire sign. If they get their dynamic right, the winds will blow into the blazing fire, which will thereby help both the elements grow in power.\n");
+                    printf("CONS\n");
+                    printf("The problem with this kind of relationship is that it may never cross the fun stage and will keep fluctuating between high energy points, without settling for a deeper connection anywhere along the way. Hence, even after dating each other for quiet some time, Gemini and Sagittarius might think that they do not really know each other all that well.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=45percent \n");
+                    printf("Compatibility=50percent \n");
+                    break;
+                    
+}
+}
     }  
 				
 	else if(num==5) //fortunes-simran
