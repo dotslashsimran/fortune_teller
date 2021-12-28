@@ -1613,7 +1613,7 @@ default:
 }
 }
 				
-				else if( (m == 10 && day >= 23) || (m == 11 && day <= 21) )
+else if( (m == 10 && day >= 23) || (m == 11 && day <= 21) )
 {
      switch(count)
                 {
@@ -1735,6 +1735,137 @@ case 12:
                     printf("CONCLUSION\n");
                     printf("Communication=10percent \n");
                     printf("Compatibility=25percent \n");
+                    break;
+                    
+default: 
+                    printf("Invalid Keywords entered.");
+                    break;
+                    
+}
+}
+				
+				else if( (m == 11 && day >= 22) || (m == 12 && day <= 21) )
+{
+    switch(count)
+                {
+case 1:    
+                    printf("PROS\n");
+                    printf("The energy of the Sagittarius brings a sense of excitement to the Capricorn’s life. The goat is known to be too devoted to its ambition and is extremely hard on itself more often than not. The warm and gracious Sagittarius personality helps Capricorn unwind to a reasonable and required degree. The Archer also teaches the Goat to slow down from time to time to enjoy and appreciate the little things in life. On the other hand, the Capricorn helps assemble the distorted life and thoughts of the Sagittarius.\n");
+                    printf("CONS\n");
+                    printf("The Archer is carefree and loves to take the occasional risk from time to time. The Capricorn is disturbed by such tactless approach to life and cannot stand rushing into anything without adequate thought process. Sagittarius likes to be optimistic, while Capricorn tends to fall back on realistic thinking. However, the Goat thinks that the Archer is naïve, while the latter thinks that the Goat is pessimistic. This causes a constant clashing of beliefs between the two parties. The fire sign is social and people-loving, while the Earth sign is an introverted soul. This makes it difficult for them to find shared activities that would give the same amount of happiness and contentment to both of them.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=10percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+
+case 2:
+                    printf("PROS\n");
+                    printf("The best past about this equation is that since both Aquarius and Sagittarius are not afraid to say their mind, the communication between them is strong and real. They have the assurance that their partner will not judge them, making it easy for them to open up to each other and ensure that their conversations are free-flowing, unambiguous, and enriching. The intellectual side of the Water bearer mingles perfectly with the deep-thinking persona of the Sagittarius sign. They are both drawn to each other due to the same.\n");
+                    printf("CONS\n");
+                    printf("It is important for Aquarius and Sagittarius to know how to unearth the right combination so as to avoid harming their relationship with each other. Possessiveness is a problem that both of them will struggle from time to time. They have jealous natures that might cause friction in their bond and engender a sense of resentment between the two. Since both these signs are more impulsive than rational, they might end up making regrettable decisions in the spur of the moment that cause problems for their relationship in the future.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=100percent \n");
+                    printf("Compatibility=85percent \n");
+                    break;
+                    
+case 3:
+                    printf("PROS\n");
+                    printf("The biggest similarity between these two signs Sagittarius and Pisces is that they have extremely creative minds and immensely intuitive personalities. They have some similar interests in terms of hobbies and other activities, which, in turn, can give them a serious chance to get to know and understand each other. The Fish and the Archer are both kind and compassionate individuals. They take pride in helping other people and thus, will always extend selfless support to each other in times of need.\n");
+                    printf("CONS\n");
+                    printf("Signs are that since both Pisces and Sagittarius tend to live in their dream worlds more than they do in the present, they might end up getting harsh reality checks from time to time. This will unnerve them and cause panic in their astrology couple compatibility. While Pisces is patient and Sagittarius is open-minded, they might not take this very well and fall into an emotional turmoil in such situations. It is unlikely that they will help each other out of such problems, considering they will be too busy trying to get bearings of their own self first. The emotional dependence of the Pisces might be caging for the Sagittarius, while the fiery temper of the Archer might not bode well with the gentle nature of the Fish.\n");       
+                    printf("CONCLUSION\n");
+                    printf("Communication=20percent \n");
+                    printf("Compatibility=15percent \n");
+                    break;
+                    
+case 4:
+                    printf("PROS\n");
+                    printf("The physical as well as emotional intimacy that these signs share is second to none.  the best thing about the same is that Aries and Sagittarius do not hold grudges for too long and forgive easily. This helps them get over any argument with ease and avoid letting it hamper the growth of their bond. It is almost as if the two fire signs have enduring reserves of energy and will never run out of the same. However, if one of them does feel the gloom from time to time, the other is aware and understanding enough to lift his or her partner's spirits almost immediately.\n");
+                    printf("CONS\n");
+                    printf("Both Aries and Sagittarius have an immense sense of pride and cannot back down from a fight. While these are good things more often than not, they might strain their relationship from time to time. When an argument does ensue from mutual differences, they will end up saying harsh words to each other and will fight ceaselessly without looking for a compromise.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=60percent \n");
+                    printf("Compatibility=80percent \n");
+                    break;
+                    
+case 5:
+                    printf("PROS\n");
+                    printf("The ceaseless optimism exhibited by the Sagittarius will amaze the Taurus, but will also help him/her relax from time to time. The Bull will learn how to ease up and enjoy the little things in life due to the childlike enthusiasm and vivacity of the Sagittarius’s personality. Taurus will bring a semblance of calm and order to the wild and cluttered world of the Sagittarius. The Archer will get a road map to materialize their idealistic plans into realistic execution from his/her partner. While Sagittarius is louder and Taurus is relatively reticent, they are both incredibly passionate about life.\n");
+                    printf("CONS\n");
+                    printf("Both Taurus and Sagittarius are extremely stubborn and unyielding. They don’t see eye to eye on eight out of ten matters, and will constantly have contrasting opinions about everything. That would be okay, if they were both not so inflexible and unwilling to compromise their stand.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=25percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+                    
+case 6:
+                    printf("PROS\n");
+                    printf("Both Gemini and Sagittarius are Mutable signs. Hence, they are extremely adaptive to their surroundings and do not take long to change their ways according to the requirements of the situation. Gemini is an Air sign while Sagittarius is a Fire sign. If they get their dynamic right, the winds will blow into the blazing fire, which will thereby help both the elements grow in power.\n");
+                    printf("CONS\n");
+                    printf("The problem with this kind of relationship is that it may never cross the fun stage and will keep fluctuating between high energy points, without settling for a deeper connection anywhere along the way. Hence, even after dating each other for quiet some time, Gemini and Sagittarius might think that they do not really know each other all that well.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=45percent \n");
+                    printf("Compatibility=50percent \n");
+                    break;
+                    
+case 7:
+                    printf("PROS\n");
+                    printf("Sagittarius is a Mutable sign, while Cancer has an extremely giving personality. Hence, when these two individuals try to build a romantic association together, they will not be afraid to adjust and compromise anywhere along the way. This will give the must-needed elasticity to their equation and it will make it easier for them to build a strong sense of mutual understanding.\n");
+                    printf("CONS\n");
+                    printf("Cancer has domineering qualities somewhere in its personalities and thus, will want to take control inside the house. While that is fine with the Archer for most part, it will turn into frustration for him/her if it goes beyond the threshold.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=percent \n");
+                    printf("Compatibility=percent \n");
+                    break;
+                    
+case 8:
+                    printf("PROS\n");
+                    printf("Sagittarius draws the Lion due to its immense optimism, its incredible zest for life, and its ceaseless generosity. Leo feels content and satisfied in the presence of the Archer and is always amazed by the uninhibited beauty of his/her partner’s personality. Sagittarius, on the other hand, is attracted to the sheer strength of the Leo.\n");
+                    printf("CONS\n");
+                    printf("Since this is a fusion of two fire signs, the occasional sparks will fly between these two souls. While Sagittarius is fine with Leo leading the charge, the Archer will not be able to take controlling behaviour from its partner. Sagittarius sign is addicted to its independent and cannot stand being thwarted by anyone in any circumstances.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=60percent \n");
+                    printf("Compatibility=80percent \n");
+                    break;
+                    
+case 9:
+                    printf("PROS\n");
+                    printf("The biggest strength of this pair is that both Virgo sign and Sagittarius sign are extremely flexible to their partner. They will not think too much while changing themselves for the smooth functioning of their dynamic. Mutual adjustment is particularly essential in a relationship like this.\n");
+                    printf("CONS\n");
+                    printf("The frequencies at which both the star signs function are completely different. That’s where the major problem arises between the Sagittarius and Virgo. Sagittarius likes to fly through life with spontaneity and excitement, while Virgo likes to tread carefully while meticulously thinking about the repercussions of every step.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=20percent \n");
+                    printf("Compatibility=15percent \n");
+                    break;
+                    
+case 10:
+                    printf("PROS\n");
+                    printf("Libra and Sagittarius are just one place apart on the zodiac charts and hence, have a natural sense of understanding for each other. Libra man and Sagittarius woman and vice-versa are attracted to each other from the word go and their bond flourishes through a natural rapport between them.\n");
+                    printf("CONS\n");
+                    printf("The main problem in this relationship is that they have two very different outlooks on life. Sagittarius is spontaneous and loves to enjoy the present moment. On the other hand, Libra is yearning for long-term stability and peace in life. Hence, though they do not want very different things, it is tough for them to plan anything with each other in terms of their relationship.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=100percent \n");
+                    printf("Compatibility=85percent \n");
+                    break;
+                    
+case 11:
+                    printf("PROS\n");
+                    printf("Both Scorpio and Sagittarius signs are always in search of the excitement that comes with trying different things in life. Hence, they will connect seamlessly on this front and will find a ton of activities that they can enjoy together. Moreover, the immense physical connection and uninhibited intimacy between Scorpio and Sagittarius builds strong mutual attraction between them.\n");
+                    printf("CONS\n");
+                    printf("Scorpio is a Fixed sign and thus, refuses to adjust or adapt to any situation in life. This can turn frustrating for the Sagittarius pretty quickly. This frustration can turn into resentment over time and will then lead to negative tension between the two signs. Moreover, Scorpio is looking for a stable commitment in life and the flitting attitude of the Archer does not bode well with the water sign.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=10percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+                    
+case 12:
+                    printf("PROS\n");
+                    printf("The most positive aspects of this Sagittarius and Sagittarius relationship compatibility is that they make a generous and idealistic pair with a scintillating sense of humor. When these two of a kind with shared interests get together, They will indulge in exciting, passionate and intellectual discussions in which they can be totally themselves without having to put on any airs.\n");
+                    printf("CONS\n");
+                    printf("However, this Sagittarius compatibility with Sagittarius has its fair share of negative aspects. For example, it is very easy for them to promise more than they can deliver, they can be very impatient, and they will speak out their heart, even if it is thoroughly undiplomatic or even likely to hurt the sentiments of others.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=80percent \n");
+                    printf("Compatibility=82.5percent \n");
                     break;
                     
 default: 
