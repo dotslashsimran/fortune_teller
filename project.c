@@ -1481,6 +1481,137 @@ default:
                     
 }
 }
+				
+else if( (m == 9 && day >= 23) || (m == 10 && day <= 22) )
+{
+    switch(count)
+                {
+case 1:
+                    printf("PROS\n");
+                    printf("Both Libra Capricorn take the representation of themselves and their relationship in the society very seriously. Hence, they will work well together in public. Capricorn likes to get hold of material possessions in life, while Libra is attracted to the finer side of various objects. Thus, they can understand each other easily on that front as well.\n");
+                    printf("CONS\n");
+                    printf("While the signs focus too much on what they have and how they look to the world, they might forget to look at each other for a long time. This will create an emotional distance between them, which will only extend if not mended by both the parties involved. They might try to outsmart each other in the relationship, which poses a big threat to the high standards of belief that they have in each other.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=20percent \n");
+                    printf("Compatibility=15percent \n");
+                    break;
+                    
+case 2:
+                    printf("PROS\n");
+                    printf("When these two signs are attracted to each other on a romantic front, they can create a hell of a love story for themselves. Both Libra and Aquarius will give their all to starting and sustaining their relationship with each other, while investing time and effort in understanding and respecting each other’s perspective to different things in life.\n");
+                    printf("CONS\n");
+                    printf("Aquarius man and woman  is an upfront, direct, and strong sign. Hence, when Libra tends to waste too time on a particular decision, it can become quite unnerving for the water bearer.Also, the Libra’s reasonable wish of settling down in some point in life might also play negatively on the Aquarian’s mind, as the latter cannot have its independence threatened under any circumstances.Libra, on the other hand, does not understand the Aquarian’s constant need to rush through every decision in life.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=60percent \n");
+                    printf("Compatibility=80percent \n");
+                    break;
+                    
+case 3:
+                    printf("PROS\n");
+                    printf("Libra is cardinal sign, while Pisces is a mutable. This is why, the Piscean can adjust to the whims and fancies of Libra’s personality, which in turn, helps the Libra feel secure. This way, they can both build their bond from the ground up.Pisces and Libra are both very kind to anyone and everyone around them. This is why, people look up to this pair and have a sense of respect towards them, as individuals and as a couple.\n");
+                    printf("CONS\n");
+                    printf("While they are both very understanding of each other, they will struggle to see eye to eye on many occasions. They are intrinsically different and have some very divergent core beliefs.The Piscean is a sensitive and emotional zodiac sign, while the Libra is relatively reticent. This can create a wedge between the two, more so as the latter’s inability to express his/her emotions openly can unnerve the Fish.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=25percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+                    
+case 4:
+                    printf("PROS\n");
+                    printf("Aries and Libra will always find an ethereal pull and attraction towards each other. What very few people know, is that this pull and attraction makes for a very successful relationship. Because they find themselves insanely bonded, they will find ways of changing themselves, to fit each other. In short, there is no difference grave enough to keep these two away from each other. Both signs are mildly romantic, and prefer to see the romance in the everyday of life.\n");
+                    printf("CONS\n");
+                    printf("The balanced Libra, may kill the vibe for the enthusiastic Aries. All in all, even though these two signs will be madly in love and attracted to each other, they will not be right for the two individuals in the relationship. They both may give up on self-development because it is too tiring to explain to their partner why they need to learn something new. They may both stop doing things together, because the other has a different way of doing it, that they don't appreciate.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=45percent \n");
+                    printf("Compatibility=50percent \n");
+                    break;
+                    
+case 5:
+                    printf("PROS\n");
+                    printf("The Taurus Libra relationship will be a tumultuous one. Not everyone around them will understand it, but their romance will be the most beautiful one to them. This is the couple that will make sure that if anyone sees them fight, they also see them making it up to each other. Both vocal signs, this union is going to be a verbose one.\n");
+                    printf("CONS\n");
+                    printf("This is a rare kind of relationship where the strengths are the weaknesses. Aries and Libra are very different from each other. While they may think that they can help each other, that is exactly what this relationship can end up being for them- a project! They will both think that it is their responsibility to bail the other out of whatever problem they are in. This is bad.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=25percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+                    
+case 6:
+                    printf("PROS\n");
+                    printf("The conversations between Gemini and Libra tend to be intellectual, poignant, and very interesting. They usually make the most out of each other’s company and can learn a lot from the time that they spend together. Libra and Gemini have a lot of similarities that help them understand each other easily. This, in turn, makes it easy for the couple to find a functional dynamic between them.\n");
+                    printf("CONS\n");
+                    printf("Gemini is an extremely fickle sign that tends to change its mind on most things all the time. Libra, on the other hand, struggles to make up its mind in the first place. Hence, it is very tough for this couple to come to make any major or minor decision with ease or solidarity. They will keep going back and forth between the options, thereby causing eventual frustration and helplessness between the two.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=60percent \n");
+                    printf("Compatibility=80percent \n");
+                    break;
+                    
+case 7:
+                    printf("PROS\n");
+                    printf("Cancer is a family-oriented sign that loves to build a secure home with interwoven bonds. Libra, on the other hand, likes to come to a comfortable and cozy home every day, one which it can enhance with beautiful objects. This creates a functional rapport between the two signs and they become synchronous to each other’s qualities and traits.\n");
+                    printf("CONS\n");
+                    printf("Cancer is an emotional sign that is not afraid to express its feelings. Libra, on the other hand, might be reserved in terms of emotions sometimes. This may lead to lack of understanding between the Cancer Libra and cause some wrinkles in their love life and relationship. Libra and Cancer, both are leaders in their own way, hence it becomes difficult for them to let each other take the reins of the relationship from time to time.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=20percent \n");
+                    printf("Compatibility=15percent \n");
+                    break;
+                    
+case 8:
+                    printf("PROS\n");
+                    printf("Libra and Leo are two of the most loyal signs of the zodiac. Once they decide to commit to each other, they will try their best to make their relationship work and will truly go till the ends of the Earth for their partner’s happiness. Leo and Libra are extremely devoted to each other and thus, will build a sense of security and trust in the relationship very soon.\n");
+                    printf("CONS\n");
+                    printf("Both Libra and Leo find it very difficult to change their characteristics for anyone. However, they expect others to adapt to their behaviour and personalities. Hence, it creates a real problem in their relationship and may case friction between the two from time to time. Libra’s indecisive nature can irritate the firm and unwavering Lion, who cannot stand second guessing anything in its life.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=100percent \n");
+                    printf("Compatibility=85percent \n");
+                    break;
+                    
+case 9:
+                    printf("PROS\n");
+                    printf("Libra is a cardinal sign and Virgo is a mutable sign. Thus, the latter has the ability to adjust and adapt to changing circumstances, which is appreciated heavily by the former. On the other hand, the grace of the Libra male and female will be loved and admired by the Virgo.\n");
+                    printf("CONS\n");
+                    printf("The problem with Libra and Virgo is that though they ultimately want the same things in life, they operate at completely different speeds to each those mutual goals. Hence, it is difficult for them to create a functional rapport together, where they can move forward with similar, or at least synchronous, frequencies.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=10percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+                    
+case 10:
+                    printf("PROS\n");
+                    printf("The positive aspects of a twoLibra compatibility pairing is that they have great mutual esteem, are very fair to each other, as they are to everyone, and can chat with each other for hours on end. When they start picking out each others' mistakes, they will soon realise the folly of it, and refrain from continuing in the same vein.\n");
+                    printf("CONS\n");
+                    printf("By far the most problematic aspect in a Libra-Libra relationship concerns trust issues. Things will be fine and hunky dory as long as they trust each other, but the moment one of them suspects the other of some wrongdoing, it can create a rift that will not be easy to bridge. Besides, it is not easy for them to take decisions, and the uncertainty in decision-making by both can prevent them from taking advantage of favourable circumstances.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=80percent \n");
+                    printf("Compatibility=82.5percent \n");
+                    break;
+                    
+case 11:
+                    printf("PROS\n");
+                    printf("Scorpio and Libra are both very progressive signs. Libra is unbiased and non-judgmental, which helps the Scorpion express its vulnerabilities with ease. Scorpio, on the other hand, is a passionate and strong individual. This infuses confidence in the Libra and helps curb the indecisiveness in his/her personality.\n");
+                    printf("CONS\n");
+                    printf("Both Libra and Scorpio have leadership tendencies and tend to control their surroundings from time to time. Hence, it will be difficult for them to take each other’s overbearing attitudes, as none of them like to abide by someone else’s rules. The power struggle between them will get more and more imminent with every passing day, more so if it is not taken care of from the beginning of the relationship.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=10percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+
+case 12:
+                    printf("PROS\n");
+                    printf("Libra and Sagittarius are just one place apart on the zodiac charts and hence, have a natural sense of understanding for each other. Libra man and Sagittarius woman and vice-versa are attracted to each other from the word go and their bond flourishes through a natural rapport between them.\n");
+                    printf("CONS\n");
+                    printf("The main problem in this relationship is that they have two very different outlooks on life. Sagittarius is spontaneous and loves to enjoy the present moment. On the other hand, Libra is yearning for long-term stability and peace in life. Hence, though they do not want very different things, it is tough for them to plan anything with each other in terms of their relationship.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=100percent \n");
+                    printf("Compatibility=85percent \n");
+                    break;
+                    
+default: 
+                    printf("Invalid Keywords entered.");
+                    break;
+                    
+}
+}
     }  
 				
 	else if(num==5) //fortunes-simran
