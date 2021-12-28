@@ -952,6 +952,10 @@ case 12:
                     printf("Communication=25percent \n");
                     printf("Compatibility=25percent \n");
                     break;
+		  
+	  default: 
+                    printf("Invalid Keywords entered.");
+                    break;
     }
     }
 				
@@ -1079,6 +1083,9 @@ case 12:
                     printf("Compatibility=50percent \n");
                     break;
                     
+		    default: 
+                    printf("Invalid Keywords entered.");
+                    break;
 }
 }
 				else if( (m == 6 && day >= 21) || (m == 7 && day <= 22) )  
@@ -1204,6 +1211,10 @@ case 12:
                     printf("CONCLUSION\n");
                     printf("Communication=percent \n");
                     printf("Compatibility=percent \n");
+                    break;
+				
+				default: 
+                    printf("Invalid Keywords entered.");
                     break;
 }
 }
