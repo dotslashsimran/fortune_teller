@@ -1612,6 +1612,137 @@ default:
                     
 }
 }
+				
+				else if( (m == 10 && day >= 23) || (m == 11 && day <= 21) )
+{
+     switch(count)
+                {
+case 1:
+                    printf("PROS\n");
+                    printf("The Goat is reticent and quiet, and takes a long amount of time to open up to someone. While this might be difficult to take for most partners, it works wonderfully with the Scorpion’s psyche. The intuitive power of Scorpio is so strong that he/she can understand the Capricorn even when the latter prefers to stay silent on most occasions.\n");
+                    printf("CONS\n");
+                    printf("Capricorn and Scorpio are both very serious signs and do not fool around in any relationship. Since they are both dedicated to making their equation work, they might end up cultivating an air of tension around themselves and around the relationship. This might lead to unnecessary friction between Capricorn man and Scorpio womanand vice-versa.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=100percent \n");
+                    printf("Compatibility=85percent \n");
+                    break;
+                    
+case 2:
+                    printf("PROS\n");
+                    printf("Both Aquarius and Scorpio are extremely intellectual people with razor sharp focus. They are attracted to each other on the cerebral level thus, tend to have more than one intellectually stimulating conversation with each other from time to time.They have enough similarities to hit it off with each other. They are both rebels on certain fronts and thus, find it easy to relate to each other on some core beliefs.\n");
+                    printf("CONS\n");
+                    printf("The challenge that the water bearer and the Scorpion will face the most in their relationship is their inability to come to terms with each other’s emotional requirements. While the Aquarian prefers to stay closed off and guarded, the Scorpion requires expressiveness from time to time.This might create problems between Aquarians and Scorpions and hamper the progress of their relationship.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=20percent \n");
+                    printf("Compatibility=15percent \n");
+                    break;
+                    
+case 3:
+                    printf("PROS\n");
+                    printf("The erratic behaviour and complex personality of the Scorpion might be frustrating for most zodiac signs, but it does not deter the Piscean in the slightest. The fish is a gentle, kind, and patient sign that has the potential to break the walls around the Scorpion’s emotional side.On the other hand, the innocence of Pisces makes Scorpio feel protective about the Piscean. Hence, Scorpio makes sure to do everything in its power to make Pisces feel safeguarded and cherished, which in turn, brings out the best in the Fish.\n");
+                    printf("CONS\n");
+                    printf("The dominating persona of the Scorpion, though handled well by the Pisces man or Pisces woman, can cause problems in the relationship at times. While the Fish understands the overbearing nature of the Scorpion, it cannot accept it at all times. Hence, the Scorpion must practice relinquishing control from time to time so as to keep the relationship healthy.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=60percent \n");
+                    printf("Compatibility=80percent \n");
+                    break;
+                    
+case 4:
+                    printf("PROS\n");
+                    printf("The strong, tactical approach of the Scorpion helps Aries give direction to its sometimes wayward dreams. The former also teaches the latter how to take things slowly and think without acting in emotionally draining situations. On the other hand, the Arian brings a certain degree of warmth and excitement to the Scorpions life. The Ram teaches the Archer to let go of certain insecurities in life and encourages him or her to embrace positivity no matter what any particular situation stands for.\n");
+                    printf("CONS\n");
+                    printf("The brashness and harsh words of the Arian can be too much to handle for the Scorpion, on some occasions. This can lead to fights between the Aries and Scorpio, and they are both not inclined towards compromise in such situations, which leads to an augmentation of their argument more often than not. The extroverted and social Aries is different from the aloof, and sometimes standoffish, Scorpion. They find it difficult to see eye to eye in certain situations because of their mutual differences.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=25percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+                    
+case 5:
+                    printf("PROS\n");
+                    printf("This is a relationship that survives and thrives of a strong foundation of mutual trust between the two partners. Taurus and Scorpio are both extremely committed lovers and will thus make each other feel secure and cherished in the relationship. They are amongst the strongest compatibilities of the zodiac because of their intense and unshakable emotional as well as physical connect with each other.\n");
+                    printf("CONS\n");
+                    printf("Both these signs are extremely stubborn and thus, when they find themselves on the opposite sides on an argument, it is difficult for them to find middle ground. They are extremely inflexible and cannot compromise in case of a strong and heated disagreement. There will be an omnipresent tussle for power in the relationship and it might seem like both the signs are trying to get the reins to each other.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=percent \n");
+                    printf("Compatibility=percent \n");
+                    break;
+                    
+case 6:
+                    printf("PROS\n");
+                    printf("Scorpio has a sense of secrecy around itself, which entices the eternally curious Gemini from the word ‘go’. The charm and wit of the latter does not go unnoticed by the Scorpion, who is a sucker for cerebral and intellectual conversations.\n");
+                    printf("CONS\n");
+                    printf("The physical as well as emotional intimacy in this relationship is a cause for concern. Both these signs of astrology are similar when it comes to the emotional spectrum, but one of them generally tends to feel a lot more than the other at a given moment of time. Hence, it is very difficult for them to be on the same page when it comes to intimacy.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=25percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+                    
+case 7:
+                    printf("PROS\n");
+                    printf("Scorpio and Cancer can form a unique bond together, wherein they tend to bring out the best in each other. Cancer is a Cardinal sign while Scorpio is a Fixed sign. Hence, they are both powerful entities coming together to fuse into an unbreakable union.\n");
+                    printf("CONS\n");
+                    printf("The problem that these star signs might face is that they are both very domineering and can struggle to give in to each other’s whims and demands. Cancer wants autonomy at home, while Scorpio prefers to function as an independent entity at all times.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=60percent \n");
+                    printf("Compatibility=80percent \n");
+                    break;
+                    
+case 8:
+                    printf("PROS\n");
+                    printf("Leo and Scorpio are both fixed signs. This helps them understand each other on a different level and creates a functional dynamic between the two. They trust each other to the hilt and that, in itself, is the biggest positive of the Leo Scorpio compatibility.\n");
+                    printf("CONS\n");
+                    printf("Both Leo and Scorpio are known for their inflexibility and refusal to adjust to their partner’s personalities. This will certainly create friction in their relationship, more so when they get caught up in arguments and ceaseless bickering.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=20percent \n");
+                    printf("Compatibility=15percent \n");
+                    break;
+                    
+case 9:
+                    printf("PROS\n");
+                    printf("Virgo and Scorpio are both very determined on professional fronts and have a drive to succeed therein. Hence, they will always understand and support each other with respect to this, while motivating each other to reach the highest of heights in their respective careers.\n");
+                    printf("CONS\n");
+                    printf("Virgo, being an Earth sign, is a grounded and steadfast individual. Virgo man and Scorpio woman and vice-versa like to take their time while doing anything and everything just to make sure that they do it with absolute perfection. However, that might not bode too well for the Scorpion at all times.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=100percent \n");
+                    printf("Compatibility=85percent \n");
+                    break;
+                    
+case 10:
+                    printf("PROS\n");
+                    printf("Scorpio and Libra are both very progressive signs. Libra is unbiased and non-judgmental, which helps the Scorpion express its vulnerabilities with ease. Scorpio, on the other hand, is a passionate and strong individual. This infuses confidence in the Libra and helps curb the indecisiveness in his/her personality.\n");
+                    printf("CONS\n");
+                    printf("Both Libra and Scorpio have leadership tendencies and tend to control their surroundings from time to time. Hence, it will be difficult for them to take each other’s overbearing attitudes, as none of them like to abide by someone else’s rules. The power struggle between them will get more and more imminent with every passing day, more so if it is not taken care of from the beginning of the relationship.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=10percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+                    
+case 11:
+                    printf("PROS\n");
+                    printf("The positive aspects of a two Scorpio compatibility is that, minus the emotions, both their minds will provide great stimulus when they communicate, especially at the intellectual level. The things they talk about, though, can be depressing things, not because they like it, but because they understand one another in areas that other people usually avoid dealing with.\n");
+                    printf("CONS\n");
+                    printf("The negative aspects of this Scorpio and Scorpio relationship is that both are extremely possessive, they want to know everything about the other, while all the time striving for independence. Though they really wish to get involved in each other's life, they detest being controlled, even by their partner. This Scorpio-Scorpio relationship is often plagued by problems of domination, as both want to dominate the other.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=80percent \n");
+                    printf("Compatibility=82.5percent \n");
+                    break;
+                    
+case 12:
+                    printf("PROS\n");
+                    printf("Both Scorpio and Sagittarius signs are always in search of the excitement that comes with trying different things in life. Hence, they will connect seamlessly on this front and will find a ton of activities that they can enjoy together. Moreover, the immense physical connection and uninhibited intimacy between Scorpio and Sagittarius builds strong mutual attraction between them.\n");
+                    printf("CONS\n");
+                    printf("Scorpio is a Fixed sign and thus, refuses to adjust or adapt to any situation in life. This can turn frustrating for the Sagittarius pretty quickly. This frustration can turn into resentment over time and will then lead to negative tension between the two signs. Moreover, Scorpio is looking for a stable commitment in life and the flitting attitude of the Archer does not bode well with the water sign.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=10percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+                    
+default: 
+                    printf("Invalid Keywords entered.");
+                    break;
+                    
+}
+}
     }  
 				
 	else if(num==5) //fortunes-simran
