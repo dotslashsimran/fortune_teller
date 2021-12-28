@@ -1350,6 +1350,137 @@ default:
                     
 }
 }
+				
+else if( (m == 8 && day >= 23) || (m == 9 && day <= 22) ) 
+{
+    switch(count)
+{
+case 1:
+                    printf("PROS\n");
+                    printf("The Virgo Capricorn relationship compatibility thrives on the mutual trust and understanding that they build from the ground up. They are both extremely loyal individuals and thus, are not likely resort to any form of cheating at any point in the relationship. This is what makes their equation tick from the very beginning. They have similar interests and drives, which will make it easier for them to find numerous things to do, as a couple.\n");
+                    printf("CONS\n");
+                    printf("The relationship between them is strong and steady, but will it fly at some point of time? Virgo and Capricorn are sometimes too cautious and end up missing the fun in life. Their relationship might become too mundane and static at times, which is never a sign of a blossoming bond. They are both very harsh on themselves and those around them. Thus, their union might end up putting more pressure on them individually, rather than taking their minds off their worries.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=60percent \n");
+                    printf("Compatibility=80percent \n");
+                    break;
+                    
+case 2:
+                    printf("PROS\n");
+                    printf("Both Virgo and Aquarius are highly intelligent and sharp individuals. The mental side of this relationship will be its greatest asset and its biggest strength. They will never run out of topics to talk about and their communication will always be enlightening and exhilarating for both the sides.The best part about Virgo and Aquarius relationship compatibility bond is that though they have certain similarities, the differences in their personalities will also add to their relationship. Both have strong ambition and will not stop at anything to fulfill their aspirations.\n");
+                    printf("CONS\n");
+                    printf("The unpredictability of the Aquarian is too much to take for the stable Virgo at times. The latter likes to have a control over his/her life, while the former thrives on surprises and impulsiveness. This will probably ignite the initial bout of sparks in their relationship.While Virgo believes in keeping it real, their behavior might seem pessimistic to the immensely idealistic Aquarius. This will lead to conflicts between Aquarius and Virgo, as Virgo will be frustrated with their partner's inability to gauge the reality.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=25percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+                    
+case 3:
+                    printf("PROS\n");
+                    printf("The zodiac compatibility between Pisces and Virgo is extremely peaceful and harmonious. They both know what they want from the relationship, and will give each other the time to settle into the same. Virgo, with its practicality and knowledge, gives direction to the Piscean’s idealistic dreams. Pisces, on the other hand, helps the Virgo feel more and encourages him/her to express feelings without any inhibitions. The gentle and naïve side of the Fish is safeguarded by the Virgo, who strives to protect the Piscean’s innocence in life.\n");
+                    printf("CONS\n");
+                    printf("The dominating and perfection-seeking personality of the Virgo is too much to handle for the Pisces at times. The Fish prefers to operate in a dreamy world, and Virgo’s cold logic and sleek pragmatism threatens to plunge it into reality more often than not. This makes the Piscean bitter and unable to function at the best level. Virgo does not express emotions frequently, and that might stir feelings of insecurity in the sentimental Piscean. This might make the Fish feel ignored and under-appreciated in the relationship.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=45percent \n");
+                    printf("Compatibility=50percent \n");
+                    break;
+                    
+case 4:
+                    printf("PROS\n");
+                    printf("The Virgo and Aries relationship can be explosive, in a good way. Bringing fire and earth sign has mostly seen positive results. With both the signs being powerful, they can make a successful pair. While doting of their partners and being absolutely loyal is true to the Aries nature, the Virgo is gentle, caring and responsible for their partner.\n");
+                    printf("CONS\n");
+                    printf("Aries man and Virgo woman and vice-versa are both signs that can't take things going against their will. Aries has a needs to have people with similar energy around them. Whereas, Virgo has an inherent need to have people do things when and how they deem fit. The energetic Aries can find the authoritarian Virgo tag bit demanding for their taste.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=25percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+                    
+case 5:
+                    printf("PROS\n");
+                    printf("There is a lot that these two earth signs have in common with each other. While one is ruled by the feminine Venus, the latter is ruled by the hottest planet, Mercury. Goes to show that there will be no dearth of warmth and caring in this relationship.\n");
+                    printf("CONS\n");
+                    printf("Even though both these signs are earth signs, they are different in the core of their nature. While Taurus is a fixed sign, Virgo is a mutable sign. As such, whenever the Virgo will want to make any changes to their lifestyle, or even routine, the Taurus will first try to negate it. Sure, if the Virgo talks them into it, there is a chance that they may agree. But the chances are slim.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=60percent \n");
+                    printf("Compatibility=80percent \n");
+                    break;
+                    
+case 6:
+                    printf("PROS\n");
+                    printf("Both these signs are ambitious and career-oriented, albeit in different ways. However, their contrasting approach to their professional goals might just end up helping their relationship. The strong determination and unending hard work that the Virgo exhibits tends to inspire the Gemini man or Gemini woman to become consistent in his/her career. On the other hand, the strong ambition and dynamism of the latter tend to make the Virgo more creative and a loss let predictable on the professional front.\n");
+                    printf("CONS\n");
+                    printf("The unpredictable behaviour of the Gemini is a bit too absurd for the Virgo to take. The Earth sign finds it very irresponsible, disruptive, and unnecessary. The recklessness of the Gemini is abhorred by the methodical and tenacious Virgo.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=20percent \n");
+                    printf("Compatibility=15percent \n");
+                    break;
+                    
+case 7:
+                    printf("PROS\n");
+                    printf("Virgo is drawn towards a pragmatic, stable, and comfortable life at home. That is exactly what the Cancerian brings to the relationship. The easy Virgo personality makes life wonderful for the Crab, who loves to build a harmonious and non-dramatic relationship with its partner.\n");
+                    printf("CONS\n");
+                    printf("The sentimental sign of Cancer personality might not be completely satisfied due to the emotionally reserved behaviour of the Virgo. The Crab can also be too inflexible at times, which will frustrate his/her extremely practical partner.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=100percent \n");
+                    printf("Compatibility=85percent \n");
+                    break;
+                    
+case 8:
+                    printf("PROS\n");
+                    printf("Leo is a Fire sign while Virgo is an Earth sign. They are both set in their ways, but also have a unique understanding between them. Since they are next to each other on the zodiac chart, their bond grows due to the innate sense of oneness that they have with each other. Leo is likely to take the centre stage wherever this couple goes, and the introverted and shy Virgo is more than happy to be at the sidelines.\n");
+                    printf("CONS\n");
+                    printf("Leo’s need for attention and constant admiration will go lost on the pragmatic mind of the Virgo, who will find it unnecessary. Hence, the latter might choose to ignore the former’s need for appreciation. However, an under-appreciated Lion might just be the bitterest partner to be with in a relationship. Virgo, on the other hand, can get too critical and controlling at times.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=10percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+                    
+case 9:
+                    printf("PROS\n");
+                    printf("The positive points in a Virgo Virgo relationship compatibility is that they can be strangely rational. It has been observed that they are a couple who generally meet at just the right time, when they are ready to tie the knot and start a family. Alternatively, they meet when both have just broken off old ties and are looking to start life on a new page and with a new person.\n");
+                    printf("CONS\n");
+                    printf("In Virgo and Virgo relationship their values match perfectly, nothing else matches well, or at least in the same proportion. Their opinions and views about people, things and events can widely vary, and is something that can put a spanner in the works. They may have a difficult time adapting to each other's emotions or professional obligations. This is especially true if their professions are totally different.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=80percent \n");
+                    printf("Compatibility=82.5percent \n");
+                    break;
+                    
+case 10:
+                    printf("PROS\n");
+                    printf("Libra is a cardinal sign and Virgo is a mutable sign. Thus, the latter has the ability to adjust and adapt to changing circumstances, which is appreciated heavily by the former. On the other hand, the grace of the Libra male and female will be loved and admired by the Virgo.\n");
+                    printf("CONS\n");
+                    printf("The problem with Libra and Virgo is that though they ultimately want the same things in life, they operate at completely different speeds to each those mutual goals. Hence, it is difficult for them to create a functional rapport together, where they can move forward with similar, or at least synchronous, frequencies.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=10percent \n");
+                    printf("Compatibility=25percent \n");
+                    break;
+                    
+case 11:
+                    printf("PROS\n");
+                    printf("Virgo and Scorpio are both very determined on professional fronts and have a drive to succeed therein. Hence, they will always understand and support each other with respect to this, while motivating each other to reach the highest of heights in their respective careers.\n");
+                    printf("CONS\n");
+                    printf("Virgo, being an Earth sign, is a grounded and steadfast individual. Virgo man and Scorpio woman and vice-versa like to take their time while doing anything and everything just to make sure that they do it with absolute perfection. However, that might not bode too well for the Scorpion at all times.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=100percent \n");
+                    printf("Compatibility=85percent \n");
+                    break;
+                    
+case 12:
+                    printf("PROS\n");
+                    printf("The biggest strength of this pair is that both Virgo sign and Sagittarius sign are extremely flexible to their partner. They will not think too much while changing themselves for the smooth functioning of their dynamic. Mutual adjustment is particularly essential in a relationship like this.\n");
+                    printf("CONS\n");
+                    printf("The frequencies at which both the star signs function are completely different. That’s where the major problem arises between the Sagittarius and Virgo. Sagittarius likes to fly through life with spontaneity and excitement, while Virgo likes to tread carefully while meticulously thinking about the repercussions of every step.\n");
+                    printf("CONCLUSION\n");
+                    printf("Communication=20percent \n");
+                    printf("Compatibility=15percent \n");
+                    break;
+                    
+default: 
+                    printf("Invalid Keywords entered.");
+                    break;
+                    
+}
+}
     }  
 				
 	else if(num==5) //fortunes-simran
