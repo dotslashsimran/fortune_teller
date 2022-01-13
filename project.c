@@ -7,7 +7,7 @@ int main()
     printf("Enter you name: ");
     scanf("%[^\n]%*c",name);
         int m, day;
-        printf("==============================================\n\n");
+        printf("\n==============================================\n\n");
         printf("     Hi %s                     \n", name);
         printf("     Welcome to the fortune teller        \n"); 
         printf("     Enter your birth month(1-12):        \n"); 
@@ -1936,6 +1936,7 @@ default:
         printf("\n ENTER 1 TO CONTINUE \n ENTER 0 TO QUIT \n");
         scanf("%d",&yn);
     }
-    while(yn==1);  
+    while(yn==1);
+printf("THANK'S FOR VISITING");  
     return 0;  
 }
