@@ -1937,6 +1937,6 @@ default:
         scanf("%d",&yn);
     }
     while(yn==1);
-printf("THANK'S FOR VISITING");  
+printf("THANKS FOR VISITING");  
     return 0;  
 }
